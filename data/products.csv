@@ -1,0 +1,21 @@
+product_id,product_name,brand,category,cost_gtq,price_gtq,reorder_point,max_stock
+P001,Memphis 15-MJP124,Memphis Audio,Subwoofer,1200,2199,5,30
+P002,Memphis MXA300.4,Memphis Audio,Amplificador,1800,3299,4,20
+P003,Memphis PRX500.1,Memphis Audio,Amplificador,2400,4499,3,15
+P004,Rockford T1D412,Rockford Fosgate,Subwoofer,2200,3999,4,25
+P005,Rockford R500X1D,Rockford Fosgate,Amplificador,1600,2899,5,20
+P006,Rockford P3D4-12,Rockford Fosgate,Subwoofer,1400,2599,6,30
+P007,Pioneer AVH-W4500NEX,Pioneer,Head Unit,2800,4999,3,15
+P008,Pioneer TS-A1680F,Pioneer,Bocinas,350,699,10,50
+P009,Pioneer TS-WX130DA,Pioneer,Subwoofer,900,1699,6,25
+P010,JBL GT-BassPro12,JBL,Subwoofer,1100,1999,5,25
+P011,JBL Stadium 52F,JBL,Bocinas,500,999,8,40
+P012,JBL Club 5001,JBL,Amplificador,1300,2399,4,20
+P013,Cerwin Vega VPAS10,Cerwin Vega,Subwoofer,950,1799,5,20
+P014,Cerwin Vega HED H740,Cerwin Vega,Bocinas,420,849,8,35
+P015,KBT BT-7500,KBT Electronics,Head Unit,1200,2199,4,20
+P016,KBT AMP-1500D,KBT Electronics,Amplificador,950,1799,5,20
+P017,Stinger SGP32,Stinger,Accesorios,180,349,15,60
+P018,Stinger SHW12G,Stinger,Accesorios,120,249,20,80
+P019,Soundskins SS-1SQ,Soundskins,Accesorios,280,549,12,50
+P020,Soundskins Pro Roll,Soundskins,Accesorios,350,699,10,40

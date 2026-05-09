@@ -1,0 +1,1401 @@
+inquiry_id,date,channel,category,outcome
+I00000,2024-06-01,WhatsApp,Amplificador,Cancelado
+I00001,2024-06-01,TikTok,Bocinas,Cotización enviada
+I00010,2024-06-02,WhatsApp,Subwoofer,Venta concretada
+I00011,2024-06-02,WhatsApp,Head Unit,Cancelado
+I00012,2024-06-02,Instagram,Accesorios,Sin respuesta
+I00013,2024-06-02,WhatsApp,Head Unit,Cancelado
+I00020,2024-06-03,Facebook,Accesorios,Venta concretada
+I00021,2024-06-03,WhatsApp,Subwoofer,Venta concretada
+I00022,2024-06-03,WhatsApp,Accesorios,Cotización enviada
+I00023,2024-06-03,Instagram,Head Unit,Venta concretada
+I00024,2024-06-03,Instagram,Amplificador,Venta concretada
+I00030,2024-06-04,WhatsApp,Bocinas,Cotización enviada
+I00040,2024-06-05,Instagram,Head Unit,Sin respuesta
+I00041,2024-06-05,WhatsApp,Amplificador,Cotización enviada
+I00042,2024-06-05,Instagram,Accesorios,Venta concretada
+I00043,2024-06-05,Instagram,Subwoofer,Venta concretada
+I00044,2024-06-05,WhatsApp,Bocinas,Cancelado
+I00050,2024-06-06,Tienda física,Amplificador,Sin respuesta
+I00051,2024-06-06,WhatsApp,Head Unit,Venta concretada
+I00052,2024-06-06,TikTok,Subwoofer,Cotización enviada
+I00053,2024-06-06,WhatsApp,Bocinas,Cotización enviada
+I00054,2024-06-06,WhatsApp,Head Unit,Cancelado
+I00060,2024-06-07,WhatsApp,Amplificador,Sin respuesta
+I00061,2024-06-07,WhatsApp,Bocinas,Cotización enviada
+I00062,2024-06-07,Instagram,Bocinas,Venta concretada
+I00063,2024-06-07,Tienda física,Head Unit,Sin respuesta
+I00064,2024-06-07,Tienda física,Accesorios,Cancelado
+I00065,2024-06-07,Instagram,Head Unit,Cancelado
+I00070,2024-06-08,WhatsApp,Bocinas,Venta concretada
+I00071,2024-06-08,WhatsApp,Bocinas,Venta concretada
+I00072,2024-06-08,WhatsApp,Amplificador,Venta concretada
+I00080,2024-06-09,Facebook,Head Unit,Cotización enviada
+I00081,2024-06-09,WhatsApp,Amplificador,Cotización enviada
+I00082,2024-06-09,WhatsApp,Amplificador,Sin respuesta
+I00090,2024-06-10,WhatsApp,Amplificador,Cancelado
+I00091,2024-06-10,TikTok,Amplificador,Venta concretada
+I00092,2024-06-10,WhatsApp,Subwoofer,Sin respuesta
+I00093,2024-06-10,TikTok,Subwoofer,Sin respuesta
+I00100,2024-06-11,TikTok,Accesorios,Venta concretada
+I00110,2024-06-12,WhatsApp,Amplificador,Venta concretada
+I00120,2024-06-13,Facebook,Bocinas,Cotización enviada
+I00130,2024-06-14,WhatsApp,Amplificador,Venta concretada
+I00131,2024-06-14,WhatsApp,Subwoofer,Venta concretada
+I00140,2024-06-15,TikTok,Head Unit,Cotización enviada
+I00141,2024-06-15,Facebook,Head Unit,Cotización enviada
+I00142,2024-06-15,WhatsApp,Accesorios,Sin respuesta
+I00150,2024-06-16,TikTok,Bocinas,Cotización enviada
+I00151,2024-06-16,TikTok,Bocinas,Cotización enviada
+I00160,2024-06-17,Instagram,Subwoofer,Cotización enviada
+I00161,2024-06-17,WhatsApp,Accesorios,Venta concretada
+I00162,2024-06-17,WhatsApp,Accesorios,Cotización enviada
+I00163,2024-06-17,WhatsApp,Head Unit,Cotización enviada
+I00170,2024-06-18,Facebook,Amplificador,Venta concretada
+I00171,2024-06-18,Instagram,Bocinas,Sin respuesta
+I00172,2024-06-18,WhatsApp,Subwoofer,Venta concretada
+I00173,2024-06-18,WhatsApp,Head Unit,Venta concretada
+I00174,2024-06-18,Tienda física,Amplificador,Sin respuesta
+I00175,2024-06-18,Instagram,Bocinas,Cancelado
+I00180,2024-06-19,Facebook,Head Unit,Venta concretada
+I00181,2024-06-19,Facebook,Subwoofer,Cotización enviada
+I00190,2024-06-20,Facebook,Subwoofer,Cancelado
+I00200,2024-06-21,WhatsApp,Bocinas,Venta concretada
+I00201,2024-06-21,WhatsApp,Amplificador,Cotización enviada
+I00202,2024-06-21,Facebook,Bocinas,Cancelado
+I00210,2024-06-22,WhatsApp,Bocinas,Cotización enviada
+I00211,2024-06-22,Instagram,Head Unit,Venta concretada
+I00212,2024-06-22,WhatsApp,Bocinas,Venta concretada
+I00213,2024-06-22,Tienda física,Amplificador,Venta concretada
+I00220,2024-06-23,Instagram,Bocinas,Sin respuesta
+I00221,2024-06-23,WhatsApp,Head Unit,Cancelado
+I00222,2024-06-23,Tienda física,Accesorios,Venta concretada
+I00230,2024-06-24,Instagram,Amplificador,Venta concretada
+I00231,2024-06-24,WhatsApp,Subwoofer,Venta concretada
+I00232,2024-06-24,Instagram,Amplificador,Cotización enviada
+I00233,2024-06-24,WhatsApp,Head Unit,Venta concretada
+I00234,2024-06-24,Facebook,Bocinas,Venta concretada
+I00235,2024-06-24,WhatsApp,Subwoofer,Cotización enviada
+I00240,2024-06-25,Tienda física,Head Unit,Venta concretada
+I00241,2024-06-25,TikTok,Amplificador,Sin respuesta
+I00242,2024-06-25,WhatsApp,Subwoofer,Sin respuesta
+I00243,2024-06-25,WhatsApp,Amplificador,Cotización enviada
+I00250,2024-06-26,Instagram,Accesorios,Cotización enviada
+I00251,2024-06-26,WhatsApp,Accesorios,Sin respuesta
+I00260,2024-06-27,WhatsApp,Head Unit,Venta concretada
+I00261,2024-06-27,WhatsApp,Amplificador,Cotización enviada
+I00262,2024-06-27,TikTok,Amplificador,Venta concretada
+I00263,2024-06-27,Instagram,Bocinas,Venta concretada
+I00270,2024-06-28,Instagram,Subwoofer,Venta concretada
+I00280,2024-06-29,TikTok,Head Unit,Cotización enviada
+I00281,2024-06-29,Tienda física,Head Unit,Venta concretada
+I00282,2024-06-29,WhatsApp,Accesorios,Venta concretada
+I00283,2024-06-29,Tienda física,Head Unit,Cancelado
+I00284,2024-06-29,WhatsApp,Head Unit,Sin respuesta
+I00285,2024-06-29,Facebook,Subwoofer,Cotización enviada
+I00290,2024-06-30,Instagram,Bocinas,Venta concretada
+I00300,2024-07-01,WhatsApp,Amplificador,Cancelado
+I00301,2024-07-01,Facebook,Amplificador,Cotización enviada
+I00302,2024-07-01,WhatsApp,Amplificador,Venta concretada
+I00303,2024-07-01,TikTok,Head Unit,Cancelado
+I00304,2024-07-01,Facebook,Accesorios,Sin respuesta
+I00310,2024-07-02,Instagram,Accesorios,Venta concretada
+I00311,2024-07-02,WhatsApp,Bocinas,Cancelado
+I00312,2024-07-02,Instagram,Accesorios,Venta concretada
+I00320,2024-07-03,WhatsApp,Accesorios,Sin respuesta
+I00321,2024-07-03,WhatsApp,Accesorios,Venta concretada
+I00322,2024-07-03,Instagram,Amplificador,Sin respuesta
+I00323,2024-07-03,TikTok,Bocinas,Venta concretada
+I00324,2024-07-03,TikTok,Subwoofer,Venta concretada
+I00330,2024-07-04,WhatsApp,Accesorios,Sin respuesta
+I00331,2024-07-04,Instagram,Accesorios,Sin respuesta
+I00332,2024-07-04,TikTok,Head Unit,Cotización enviada
+I00333,2024-07-04,WhatsApp,Accesorios,Cotización enviada
+I00340,2024-07-05,WhatsApp,Subwoofer,Venta concretada
+I00341,2024-07-05,Tienda física,Head Unit,Cotización enviada
+I00342,2024-07-05,Facebook,Head Unit,Cotización enviada
+I00343,2024-07-05,TikTok,Subwoofer,Cotización enviada
+I00350,2024-07-06,Instagram,Accesorios,Cotización enviada
+I00351,2024-07-06,WhatsApp,Subwoofer,Sin respuesta
+I00352,2024-07-06,WhatsApp,Bocinas,Venta concretada
+I00353,2024-07-06,Instagram,Bocinas,Venta concretada
+I00360,2024-07-07,Tienda física,Accesorios,Cancelado
+I00361,2024-07-07,Facebook,Accesorios,Cotización enviada
+I00362,2024-07-07,WhatsApp,Amplificador,Cancelado
+I00363,2024-07-07,Instagram,Head Unit,Cancelado
+I00370,2024-07-08,Tienda física,Amplificador,Cancelado
+I00371,2024-07-08,WhatsApp,Bocinas,Cotización enviada
+I00372,2024-07-08,Facebook,Head Unit,Venta concretada
+I00373,2024-07-08,WhatsApp,Head Unit,Cotización enviada
+I00374,2024-07-08,Tienda física,Subwoofer,Sin respuesta
+I00380,2024-07-09,Instagram,Accesorios,Venta concretada
+I00381,2024-07-09,Instagram,Head Unit,Cancelado
+I00390,2024-07-10,WhatsApp,Head Unit,Cotización enviada
+I00391,2024-07-10,Facebook,Subwoofer,Sin respuesta
+I00392,2024-07-10,TikTok,Accesorios,Sin respuesta
+I00393,2024-07-10,WhatsApp,Amplificador,Venta concretada
+I00400,2024-07-11,Facebook,Amplificador,Sin respuesta
+I00410,2024-07-12,Facebook,Amplificador,Cancelado
+I00411,2024-07-12,Instagram,Bocinas,Cotización enviada
+I00412,2024-07-12,TikTok,Subwoofer,Cotización enviada
+I00413,2024-07-12,TikTok,Bocinas,Sin respuesta
+I00420,2024-07-13,Facebook,Subwoofer,Venta concretada
+I00430,2024-07-14,WhatsApp,Accesorios,Venta concretada
+I00431,2024-07-14,Instagram,Accesorios,Venta concretada
+I00432,2024-07-14,Instagram,Bocinas,Cotización enviada
+I00440,2024-07-15,WhatsApp,Accesorios,Cotización enviada
+I00450,2024-07-16,WhatsApp,Head Unit,Venta concretada
+I00451,2024-07-16,Facebook,Accesorios,Cotización enviada
+I00452,2024-07-16,WhatsApp,Subwoofer,Cotización enviada
+I00453,2024-07-16,TikTok,Bocinas,Venta concretada
+I00454,2024-07-16,Instagram,Accesorios,Venta concretada
+I00455,2024-07-16,WhatsApp,Amplificador,Cotización enviada
+I00460,2024-07-17,Instagram,Accesorios,Cotización enviada
+I00461,2024-07-17,TikTok,Head Unit,Cancelado
+I00462,2024-07-17,Instagram,Subwoofer,Venta concretada
+I00463,2024-07-17,TikTok,Amplificador,Venta concretada
+I00464,2024-07-17,Instagram,Bocinas,Venta concretada
+I00470,2024-07-18,WhatsApp,Head Unit,Cancelado
+I00471,2024-07-18,Facebook,Amplificador,Sin respuesta
+I00472,2024-07-18,Instagram,Accesorios,Venta concretada
+I00473,2024-07-18,WhatsApp,Amplificador,Venta concretada
+I00474,2024-07-18,Instagram,Subwoofer,Sin respuesta
+I00480,2024-07-19,TikTok,Bocinas,Venta concretada
+I00481,2024-07-19,Tienda física,Subwoofer,Sin respuesta
+I00482,2024-07-19,Instagram,Head Unit,Cotización enviada
+I00483,2024-07-19,Instagram,Amplificador,Venta concretada
+I00484,2024-07-19,WhatsApp,Bocinas,Sin respuesta
+I00485,2024-07-19,WhatsApp,Subwoofer,Venta concretada
+I00490,2024-07-20,WhatsApp,Amplificador,Venta concretada
+I00500,2024-07-21,Facebook,Head Unit,Sin respuesta
+I00501,2024-07-21,Instagram,Amplificador,Venta concretada
+I00502,2024-07-21,Instagram,Head Unit,Cotización enviada
+I00503,2024-07-21,WhatsApp,Head Unit,Cotización enviada
+I00504,2024-07-21,WhatsApp,Bocinas,Cotización enviada
+I00505,2024-07-21,Instagram,Amplificador,Venta concretada
+I00510,2024-07-22,WhatsApp,Amplificador,Cotización enviada
+I00511,2024-07-22,Instagram,Amplificador,Cancelado
+I00512,2024-07-22,TikTok,Head Unit,Venta concretada
+I00513,2024-07-22,WhatsApp,Subwoofer,Cotización enviada
+I00520,2024-07-23,WhatsApp,Head Unit,Cotización enviada
+I00521,2024-07-23,Tienda física,Accesorios,Cotización enviada
+I00522,2024-07-23,WhatsApp,Accesorios,Cotización enviada
+I00530,2024-07-24,Instagram,Subwoofer,Cotización enviada
+I00531,2024-07-24,Tienda física,Subwoofer,Cotización enviada
+I00532,2024-07-24,Tienda física,Amplificador,Cancelado
+I00533,2024-07-24,WhatsApp,Subwoofer,Venta concretada
+I00534,2024-07-24,WhatsApp,Subwoofer,Venta concretada
+I00535,2024-07-24,WhatsApp,Amplificador,Sin respuesta
+I00540,2024-07-25,WhatsApp,Head Unit,Venta concretada
+I00550,2024-07-26,Facebook,Subwoofer,Venta concretada
+I00551,2024-07-26,Facebook,Bocinas,Venta concretada
+I00560,2024-07-27,WhatsApp,Subwoofer,Sin respuesta
+I00561,2024-07-27,Instagram,Accesorios,Cancelado
+I00562,2024-07-27,TikTok,Accesorios,Sin respuesta
+I00570,2024-07-28,WhatsApp,Accesorios,Venta concretada
+I00571,2024-07-28,TikTok,Subwoofer,Sin respuesta
+I00572,2024-07-28,Tienda física,Bocinas,Cotización enviada
+I00573,2024-07-28,WhatsApp,Accesorios,Sin respuesta
+I00580,2024-07-29,WhatsApp,Subwoofer,Cancelado
+I00581,2024-07-29,Facebook,Head Unit,Cotización enviada
+I00582,2024-07-29,TikTok,Subwoofer,Sin respuesta
+I00590,2024-07-30,WhatsApp,Amplificador,Cancelado
+I00591,2024-07-30,Instagram,Bocinas,Sin respuesta
+I00592,2024-07-30,WhatsApp,Amplificador,Cancelado
+I00600,2024-07-31,WhatsApp,Head Unit,Venta concretada
+I00601,2024-07-31,Facebook,Subwoofer,Venta concretada
+I00602,2024-07-31,WhatsApp,Accesorios,Cancelado
+I00603,2024-07-31,Tienda física,Subwoofer,Cotización enviada
+I00604,2024-07-31,Instagram,Subwoofer,Cotización enviada
+I00610,2024-08-01,WhatsApp,Amplificador,Venta concretada
+I00611,2024-08-01,TikTok,Head Unit,Sin respuesta
+I00620,2024-08-02,TikTok,Accesorios,Sin respuesta
+I00621,2024-08-02,WhatsApp,Accesorios,Cotización enviada
+I00630,2024-08-03,WhatsApp,Bocinas,Cotización enviada
+I00631,2024-08-03,Instagram,Head Unit,Cancelado
+I00640,2024-08-04,WhatsApp,Head Unit,Venta concretada
+I00650,2024-08-05,WhatsApp,Bocinas,Sin respuesta
+I00651,2024-08-05,Instagram,Subwoofer,Venta concretada
+I00652,2024-08-05,WhatsApp,Accesorios,Sin respuesta
+I00653,2024-08-05,WhatsApp,Bocinas,Sin respuesta
+I00660,2024-08-06,TikTok,Amplificador,Venta concretada
+I00661,2024-08-06,WhatsApp,Amplificador,Cancelado
+I00670,2024-08-07,WhatsApp,Bocinas,Cotización enviada
+I00671,2024-08-07,Facebook,Accesorios,Cancelado
+I00672,2024-08-07,Tienda física,Subwoofer,Sin respuesta
+I00673,2024-08-07,WhatsApp,Amplificador,Venta concretada
+I00674,2024-08-07,TikTok,Bocinas,Cotización enviada
+I00680,2024-08-08,Instagram,Bocinas,Cancelado
+I00681,2024-08-08,WhatsApp,Bocinas,Cotización enviada
+I00682,2024-08-08,WhatsApp,Head Unit,Cotización enviada
+I00683,2024-08-08,WhatsApp,Head Unit,Venta concretada
+I00684,2024-08-08,WhatsApp,Amplificador,Cotización enviada
+I00690,2024-08-09,TikTok,Subwoofer,Cotización enviada
+I00700,2024-08-10,Tienda física,Amplificador,Cotización enviada
+I00701,2024-08-10,WhatsApp,Subwoofer,Cancelado
+I00702,2024-08-10,WhatsApp,Accesorios,Cancelado
+I00703,2024-08-10,WhatsApp,Head Unit,Cancelado
+I00710,2024-08-11,WhatsApp,Head Unit,Cancelado
+I00720,2024-08-12,Instagram,Head Unit,Cancelado
+I00721,2024-08-12,WhatsApp,Bocinas,Cotización enviada
+I00722,2024-08-12,Tienda física,Subwoofer,Cotización enviada
+I00723,2024-08-12,Instagram,Head Unit,Sin respuesta
+I00724,2024-08-12,Instagram,Bocinas,Cotización enviada
+I00725,2024-08-12,Instagram,Subwoofer,Cancelado
+I00730,2024-08-13,WhatsApp,Subwoofer,Venta concretada
+I00731,2024-08-13,Tienda física,Accesorios,Cancelado
+I00740,2024-08-14,Instagram,Accesorios,Cotización enviada
+I00741,2024-08-14,WhatsApp,Subwoofer,Venta concretada
+I00742,2024-08-14,Instagram,Accesorios,Cotización enviada
+I00743,2024-08-14,Instagram,Amplificador,Venta concretada
+I00744,2024-08-14,Tienda física,Bocinas,Cancelado
+I00750,2024-08-15,TikTok,Accesorios,Cotización enviada
+I00751,2024-08-15,WhatsApp,Accesorios,Sin respuesta
+I00752,2024-08-15,TikTok,Head Unit,Venta concretada
+I00753,2024-08-15,Facebook,Subwoofer,Sin respuesta
+I00760,2024-08-16,Tienda física,Subwoofer,Sin respuesta
+I00761,2024-08-16,Instagram,Head Unit,Cotización enviada
+I00762,2024-08-16,Tienda física,Amplificador,Cancelado
+I00763,2024-08-16,WhatsApp,Head Unit,Venta concretada
+I00764,2024-08-16,WhatsApp,Accesorios,Sin respuesta
+I00770,2024-08-17,Tienda física,Head Unit,Venta concretada
+I00771,2024-08-17,Instagram,Subwoofer,Cotización enviada
+I00772,2024-08-17,Tienda física,Subwoofer,Sin respuesta
+I00773,2024-08-17,Facebook,Subwoofer,Cotización enviada
+I00780,2024-08-18,Instagram,Amplificador,Venta concretada
+I00781,2024-08-18,WhatsApp,Head Unit,Cancelado
+I00782,2024-08-18,Facebook,Bocinas,Cancelado
+I00790,2024-08-19,Tienda física,Head Unit,Cotización enviada
+I00791,2024-08-19,TikTok,Head Unit,Cancelado
+I00800,2024-08-20,Facebook,Subwoofer,Venta concretada
+I00801,2024-08-20,Instagram,Accesorios,Venta concretada
+I00802,2024-08-20,Tienda física,Head Unit,Cotización enviada
+I00803,2024-08-20,WhatsApp,Subwoofer,Sin respuesta
+I00810,2024-08-21,Instagram,Head Unit,Cotización enviada
+I00811,2024-08-21,WhatsApp,Head Unit,Sin respuesta
+I00812,2024-08-21,Instagram,Bocinas,Sin respuesta
+I00813,2024-08-21,Instagram,Subwoofer,Cancelado
+I00820,2024-08-22,Instagram,Head Unit,Cotización enviada
+I00830,2024-08-23,Facebook,Amplificador,Cotización enviada
+I00831,2024-08-23,WhatsApp,Subwoofer,Venta concretada
+I00832,2024-08-23,TikTok,Amplificador,Cotización enviada
+I00840,2024-08-24,TikTok,Accesorios,Venta concretada
+I00841,2024-08-24,WhatsApp,Accesorios,Venta concretada
+I00842,2024-08-24,WhatsApp,Subwoofer,Cotización enviada
+I00843,2024-08-24,WhatsApp,Head Unit,Cotización enviada
+I00844,2024-08-24,Facebook,Subwoofer,Venta concretada
+I00850,2024-08-25,Instagram,Head Unit,Sin respuesta
+I00860,2024-08-26,WhatsApp,Head Unit,Cotización enviada
+I00861,2024-08-26,Facebook,Subwoofer,Cancelado
+I00862,2024-08-26,WhatsApp,Amplificador,Cancelado
+I00870,2024-08-27,Instagram,Amplificador,Venta concretada
+I00871,2024-08-27,Instagram,Accesorios,Cancelado
+I00872,2024-08-27,Instagram,Subwoofer,Venta concretada
+I00873,2024-08-27,Instagram,Amplificador,Venta concretada
+I00874,2024-08-27,WhatsApp,Subwoofer,Venta concretada
+I00880,2024-08-28,WhatsApp,Head Unit,Venta concretada
+I00881,2024-08-28,WhatsApp,Accesorios,Cotización enviada
+I00882,2024-08-28,WhatsApp,Accesorios,Venta concretada
+I00890,2024-08-29,Facebook,Accesorios,Cotización enviada
+I00900,2024-08-30,TikTok,Accesorios,Venta concretada
+I00901,2024-08-30,WhatsApp,Head Unit,Venta concretada
+I00902,2024-08-30,WhatsApp,Accesorios,Venta concretada
+I00903,2024-08-30,WhatsApp,Head Unit,Venta concretada
+I00904,2024-08-30,WhatsApp,Subwoofer,Cotización enviada
+I00910,2024-08-31,WhatsApp,Subwoofer,Cotización enviada
+I00911,2024-08-31,Instagram,Head Unit,Sin respuesta
+I00912,2024-08-31,WhatsApp,Bocinas,Sin respuesta
+I00913,2024-08-31,Instagram,Subwoofer,Venta concretada
+I00920,2024-09-01,Facebook,Head Unit,Cancelado
+I00921,2024-09-01,WhatsApp,Head Unit,Venta concretada
+I00922,2024-09-01,Facebook,Subwoofer,Sin respuesta
+I00923,2024-09-01,WhatsApp,Amplificador,Venta concretada
+I00924,2024-09-01,WhatsApp,Subwoofer,Cotización enviada
+I00925,2024-09-01,Instagram,Subwoofer,Cotización enviada
+I00930,2024-09-02,Instagram,Subwoofer,Sin respuesta
+I00931,2024-09-02,WhatsApp,Subwoofer,Venta concretada
+I00932,2024-09-02,TikTok,Bocinas,Cancelado
+I00933,2024-09-02,Instagram,Subwoofer,Cotización enviada
+I00934,2024-09-02,WhatsApp,Bocinas,Cotización enviada
+I00940,2024-09-03,Instagram,Bocinas,Venta concretada
+I00941,2024-09-03,WhatsApp,Accesorios,Cotización enviada
+I00942,2024-09-03,WhatsApp,Subwoofer,Venta concretada
+I00950,2024-09-04,WhatsApp,Amplificador,Venta concretada
+I00951,2024-09-04,WhatsApp,Accesorios,Cancelado
+I00952,2024-09-04,Instagram,Accesorios,Sin respuesta
+I00960,2024-09-05,TikTok,Subwoofer,Cotización enviada
+I00961,2024-09-05,WhatsApp,Head Unit,Cotización enviada
+I00970,2024-09-06,Instagram,Amplificador,Sin respuesta
+I00971,2024-09-06,Instagram,Accesorios,Venta concretada
+I00980,2024-09-07,WhatsApp,Subwoofer,Cotización enviada
+I00981,2024-09-07,Instagram,Subwoofer,Cotización enviada
+I00982,2024-09-07,WhatsApp,Bocinas,Cancelado
+I00983,2024-09-07,Instagram,Amplificador,Venta concretada
+I00984,2024-09-07,WhatsApp,Amplificador,Venta concretada
+I00985,2024-09-07,WhatsApp,Amplificador,Venta concretada
+I00990,2024-09-08,WhatsApp,Accesorios,Venta concretada
+I00991,2024-09-08,WhatsApp,Amplificador,Cancelado
+I00992,2024-09-08,WhatsApp,Bocinas,Cotización enviada
+I00993,2024-09-08,Instagram,Subwoofer,Cancelado
+I00994,2024-09-08,WhatsApp,Accesorios,Cotización enviada
+I00995,2024-09-08,Tienda física,Head Unit,Cancelado
+I01000,2024-09-09,Facebook,Amplificador,Venta concretada
+I01001,2024-09-09,WhatsApp,Bocinas,Sin respuesta
+I01002,2024-09-09,Tienda física,Accesorios,Cotización enviada
+I01003,2024-09-09,Instagram,Amplificador,Venta concretada
+I01004,2024-09-09,TikTok,Subwoofer,Venta concretada
+I01010,2024-09-10,WhatsApp,Amplificador,Cotización enviada
+I01011,2024-09-10,Instagram,Accesorios,Venta concretada
+I01012,2024-09-10,WhatsApp,Bocinas,Cotización enviada
+I01013,2024-09-10,WhatsApp,Amplificador,Cotización enviada
+I01020,2024-09-11,WhatsApp,Head Unit,Cotización enviada
+I01021,2024-09-11,Instagram,Head Unit,Venta concretada
+I01022,2024-09-11,WhatsApp,Amplificador,Venta concretada
+I01023,2024-09-11,WhatsApp,Bocinas,Cancelado
+I01024,2024-09-11,WhatsApp,Accesorios,Sin respuesta
+I01030,2024-09-12,WhatsApp,Accesorios,Sin respuesta
+I01031,2024-09-12,TikTok,Head Unit,Cotización enviada
+I01032,2024-09-12,Instagram,Head Unit,Cotización enviada
+I01033,2024-09-12,WhatsApp,Amplificador,Cancelado
+I01040,2024-09-13,Facebook,Subwoofer,Cancelado
+I01041,2024-09-13,WhatsApp,Bocinas,Sin respuesta
+I01042,2024-09-13,Tienda física,Head Unit,Venta concretada
+I01043,2024-09-13,WhatsApp,Accesorios,Sin respuesta
+I01044,2024-09-13,Instagram,Bocinas,Sin respuesta
+I01050,2024-09-14,WhatsApp,Subwoofer,Sin respuesta
+I01060,2024-09-15,WhatsApp,Accesorios,Venta concretada
+I01061,2024-09-15,WhatsApp,Amplificador,Sin respuesta
+I01062,2024-09-15,TikTok,Head Unit,Cotización enviada
+I01063,2024-09-15,WhatsApp,Amplificador,Cancelado
+I01070,2024-09-16,WhatsApp,Amplificador,Sin respuesta
+I01071,2024-09-16,Instagram,Accesorios,Cotización enviada
+I01072,2024-09-16,Instagram,Subwoofer,Venta concretada
+I01073,2024-09-16,TikTok,Amplificador,Cotización enviada
+I01074,2024-09-16,WhatsApp,Amplificador,Cancelado
+I01080,2024-09-17,WhatsApp,Subwoofer,Cotización enviada
+I01081,2024-09-17,Facebook,Amplificador,Cotización enviada
+I01082,2024-09-17,WhatsApp,Amplificador,Cancelado
+I01083,2024-09-17,Instagram,Subwoofer,Venta concretada
+I01084,2024-09-17,WhatsApp,Subwoofer,Sin respuesta
+I01085,2024-09-17,Instagram,Bocinas,Cotización enviada
+I01090,2024-09-18,Facebook,Amplificador,Sin respuesta
+I01091,2024-09-18,WhatsApp,Head Unit,Venta concretada
+I01100,2024-09-19,WhatsApp,Accesorios,Sin respuesta
+I01110,2024-09-20,WhatsApp,Amplificador,Cotización enviada
+I01120,2024-09-21,TikTok,Subwoofer,Cancelado
+I01121,2024-09-21,WhatsApp,Subwoofer,Sin respuesta
+I01122,2024-09-21,WhatsApp,Bocinas,Sin respuesta
+I01123,2024-09-21,WhatsApp,Subwoofer,Cotización enviada
+I01124,2024-09-21,TikTok,Head Unit,Venta concretada
+I01125,2024-09-21,WhatsApp,Amplificador,Sin respuesta
+I01130,2024-09-22,TikTok,Amplificador,Cotización enviada
+I01131,2024-09-22,TikTok,Amplificador,Cotización enviada
+I01132,2024-09-22,WhatsApp,Subwoofer,Venta concretada
+I01133,2024-09-22,WhatsApp,Head Unit,Cancelado
+I01140,2024-09-23,Instagram,Bocinas,Cotización enviada
+I01141,2024-09-23,Instagram,Bocinas,Cancelado
+I01142,2024-09-23,WhatsApp,Accesorios,Cotización enviada
+I01150,2024-09-24,Instagram,Head Unit,Cotización enviada
+I01151,2024-09-24,WhatsApp,Bocinas,Cancelado
+I01152,2024-09-24,Tienda física,Amplificador,Cotización enviada
+I01153,2024-09-24,TikTok,Amplificador,Cancelado
+I01154,2024-09-24,TikTok,Amplificador,Venta concretada
+I01155,2024-09-24,Instagram,Bocinas,Cotización enviada
+I01160,2024-09-25,Instagram,Amplificador,Sin respuesta
+I01161,2024-09-25,Tienda física,Amplificador,Cancelado
+I01162,2024-09-25,Instagram,Bocinas,Venta concretada
+I01170,2024-09-26,Tienda física,Head Unit,Sin respuesta
+I01171,2024-09-26,WhatsApp,Bocinas,Cancelado
+I01172,2024-09-26,Facebook,Subwoofer,Cotización enviada
+I01173,2024-09-26,Instagram,Head Unit,Cotización enviada
+I01180,2024-09-27,WhatsApp,Bocinas,Venta concretada
+I01190,2024-09-28,Facebook,Amplificador,Venta concretada
+I01191,2024-09-28,WhatsApp,Subwoofer,Cotización enviada
+I01192,2024-09-28,Instagram,Subwoofer,Cancelado
+I01193,2024-09-28,WhatsApp,Bocinas,Venta concretada
+I01200,2024-09-29,TikTok,Head Unit,Cotización enviada
+I01201,2024-09-29,WhatsApp,Amplificador,Cotización enviada
+I01202,2024-09-29,WhatsApp,Bocinas,Venta concretada
+I01203,2024-09-29,Instagram,Subwoofer,Cotización enviada
+I01204,2024-09-29,Facebook,Head Unit,Cotización enviada
+I01210,2024-09-30,Instagram,Head Unit,Cotización enviada
+I01211,2024-09-30,WhatsApp,Head Unit,Sin respuesta
+I01220,2024-10-01,WhatsApp,Bocinas,Cancelado
+I01221,2024-10-01,WhatsApp,Subwoofer,Cotización enviada
+I01230,2024-10-02,WhatsApp,Accesorios,Cancelado
+I01231,2024-10-02,Instagram,Subwoofer,Cotización enviada
+I01232,2024-10-02,WhatsApp,Accesorios,Sin respuesta
+I01233,2024-10-02,WhatsApp,Bocinas,Cancelado
+I01240,2024-10-03,WhatsApp,Head Unit,Venta concretada
+I01241,2024-10-03,WhatsApp,Amplificador,Cotización enviada
+I01242,2024-10-03,Instagram,Bocinas,Venta concretada
+I01250,2024-10-04,TikTok,Head Unit,Cotización enviada
+I01251,2024-10-04,Instagram,Bocinas,Cotización enviada
+I01260,2024-10-05,Instagram,Head Unit,Cotización enviada
+I01261,2024-10-05,WhatsApp,Amplificador,Venta concretada
+I01262,2024-10-05,Facebook,Bocinas,Cancelado
+I01263,2024-10-05,WhatsApp,Amplificador,Venta concretada
+I01270,2024-10-06,Instagram,Amplificador,Cotización enviada
+I01271,2024-10-06,WhatsApp,Subwoofer,Venta concretada
+I01272,2024-10-06,TikTok,Amplificador,Sin respuesta
+I01273,2024-10-06,WhatsApp,Bocinas,Venta concretada
+I01280,2024-10-07,WhatsApp,Amplificador,Sin respuesta
+I01281,2024-10-07,WhatsApp,Accesorios,Venta concretada
+I01282,2024-10-07,TikTok,Accesorios,Venta concretada
+I01283,2024-10-07,TikTok,Amplificador,Venta concretada
+I01290,2024-10-08,WhatsApp,Head Unit,Venta concretada
+I01300,2024-10-09,TikTok,Head Unit,Cancelado
+I01301,2024-10-09,Facebook,Accesorios,Cotización enviada
+I01302,2024-10-09,TikTok,Head Unit,Venta concretada
+I01303,2024-10-09,WhatsApp,Subwoofer,Cancelado
+I01304,2024-10-09,WhatsApp,Head Unit,Venta concretada
+I01305,2024-10-09,WhatsApp,Accesorios,Venta concretada
+I01310,2024-10-10,WhatsApp,Bocinas,Cotización enviada
+I01311,2024-10-10,Instagram,Subwoofer,Cancelado
+I01312,2024-10-10,Facebook,Subwoofer,Venta concretada
+I01320,2024-10-11,WhatsApp,Subwoofer,Cotización enviada
+I01321,2024-10-11,Instagram,Amplificador,Venta concretada
+I01322,2024-10-11,Instagram,Head Unit,Cotización enviada
+I01323,2024-10-11,Instagram,Head Unit,Cotización enviada
+I01324,2024-10-11,WhatsApp,Amplificador,Cancelado
+I01330,2024-10-12,TikTok,Accesorios,Venta concretada
+I01331,2024-10-12,Facebook,Accesorios,Cotización enviada
+I01332,2024-10-12,Facebook,Accesorios,Sin respuesta
+I01333,2024-10-12,Instagram,Accesorios,Venta concretada
+I01334,2024-10-12,WhatsApp,Amplificador,Cotización enviada
+I01335,2024-10-12,Instagram,Bocinas,Venta concretada
+I01340,2024-10-13,WhatsApp,Subwoofer,Sin respuesta
+I01341,2024-10-13,Tienda física,Amplificador,Cotización enviada
+I01342,2024-10-13,WhatsApp,Subwoofer,Venta concretada
+I01343,2024-10-13,WhatsApp,Head Unit,Cancelado
+I01344,2024-10-13,WhatsApp,Accesorios,Cotización enviada
+I01350,2024-10-14,WhatsApp,Accesorios,Cotización enviada
+I01351,2024-10-14,TikTok,Head Unit,Sin respuesta
+I01352,2024-10-14,WhatsApp,Subwoofer,Venta concretada
+I01353,2024-10-14,WhatsApp,Bocinas,Cancelado
+I01360,2024-10-15,Facebook,Amplificador,Cotización enviada
+I01361,2024-10-15,Instagram,Subwoofer,Sin respuesta
+I01370,2024-10-16,WhatsApp,Head Unit,Cancelado
+I01371,2024-10-16,Instagram,Bocinas,Cotización enviada
+I01372,2024-10-16,Instagram,Head Unit,Venta concretada
+I01373,2024-10-16,WhatsApp,Head Unit,Sin respuesta
+I01374,2024-10-16,WhatsApp,Accesorios,Cotización enviada
+I01375,2024-10-16,WhatsApp,Amplificador,Cotización enviada
+I01380,2024-10-17,WhatsApp,Bocinas,Cotización enviada
+I01381,2024-10-17,TikTok,Accesorios,Venta concretada
+I01382,2024-10-17,Instagram,Accesorios,Cotización enviada
+I01383,2024-10-17,TikTok,Accesorios,Cancelado
+I01384,2024-10-17,TikTok,Head Unit,Venta concretada
+I01385,2024-10-17,WhatsApp,Subwoofer,Venta concretada
+I01390,2024-10-18,Instagram,Bocinas,Venta concretada
+I01391,2024-10-18,Instagram,Accesorios,Cotización enviada
+I01392,2024-10-18,WhatsApp,Amplificador,Sin respuesta
+I01393,2024-10-18,WhatsApp,Amplificador,Venta concretada
+I01400,2024-10-19,TikTok,Subwoofer,Cotización enviada
+I01401,2024-10-19,TikTok,Head Unit,Cotización enviada
+I01402,2024-10-19,WhatsApp,Head Unit,Sin respuesta
+I01410,2024-10-20,TikTok,Amplificador,Sin respuesta
+I01411,2024-10-20,WhatsApp,Accesorios,Cotización enviada
+I01412,2024-10-20,WhatsApp,Head Unit,Venta concretada
+I01413,2024-10-20,Facebook,Bocinas,Venta concretada
+I01420,2024-10-21,Tienda física,Bocinas,Cotización enviada
+I01421,2024-10-21,WhatsApp,Accesorios,Cotización enviada
+I01430,2024-10-22,Facebook,Subwoofer,Sin respuesta
+I01440,2024-10-23,Facebook,Accesorios,Sin respuesta
+I01450,2024-10-24,TikTok,Amplificador,Sin respuesta
+I01451,2024-10-24,WhatsApp,Bocinas,Cotización enviada
+I01460,2024-10-25,WhatsApp,Amplificador,Cancelado
+I01470,2024-10-26,Tienda física,Bocinas,Venta concretada
+I01471,2024-10-26,TikTok,Accesorios,Cancelado
+I01472,2024-10-26,WhatsApp,Subwoofer,Cotización enviada
+I01473,2024-10-26,Facebook,Subwoofer,Venta concretada
+I01480,2024-10-27,TikTok,Accesorios,Venta concretada
+I01481,2024-10-27,Tienda física,Bocinas,Cancelado
+I01482,2024-10-27,Tienda física,Amplificador,Cotización enviada
+I01483,2024-10-27,Facebook,Amplificador,Sin respuesta
+I01484,2024-10-27,WhatsApp,Amplificador,Sin respuesta
+I01485,2024-10-27,WhatsApp,Amplificador,Cotización enviada
+I01490,2024-10-28,WhatsApp,Subwoofer,Venta concretada
+I01491,2024-10-28,WhatsApp,Subwoofer,Sin respuesta
+I01492,2024-10-28,WhatsApp,Head Unit,Sin respuesta
+I01500,2024-10-29,WhatsApp,Accesorios,Venta concretada
+I01510,2024-10-30,Instagram,Subwoofer,Sin respuesta
+I01511,2024-10-30,WhatsApp,Head Unit,Cotización enviada
+I01512,2024-10-30,Facebook,Accesorios,Cotización enviada
+I01513,2024-10-30,WhatsApp,Bocinas,Venta concretada
+I01520,2024-10-31,Facebook,Subwoofer,Venta concretada
+I01521,2024-10-31,Facebook,Head Unit,Cotización enviada
+I01530,2024-11-01,Tienda física,Accesorios,Sin respuesta
+I01531,2024-11-01,Tienda física,Subwoofer,Cotización enviada
+I01540,2024-11-02,TikTok,Head Unit,Cotización enviada
+I01550,2024-11-03,Instagram,Accesorios,Cotización enviada
+I01551,2024-11-03,Facebook,Amplificador,Cancelado
+I01552,2024-11-03,TikTok,Subwoofer,Cotización enviada
+I01553,2024-11-03,Instagram,Bocinas,Sin respuesta
+I01554,2024-11-03,WhatsApp,Head Unit,Venta concretada
+I01560,2024-11-04,WhatsApp,Amplificador,Venta concretada
+I01561,2024-11-04,WhatsApp,Subwoofer,Venta concretada
+I01562,2024-11-04,WhatsApp,Bocinas,Venta concretada
+I01563,2024-11-04,Tienda física,Amplificador,Cotización enviada
+I01564,2024-11-04,WhatsApp,Bocinas,Sin respuesta
+I01570,2024-11-05,WhatsApp,Subwoofer,Cancelado
+I01571,2024-11-05,TikTok,Subwoofer,Venta concretada
+I01572,2024-11-05,Instagram,Accesorios,Cancelado
+I01580,2024-11-06,Tienda física,Amplificador,Cotización enviada
+I01581,2024-11-06,Instagram,Accesorios,Venta concretada
+I01582,2024-11-06,Tienda física,Head Unit,Venta concretada
+I01583,2024-11-06,Tienda física,Subwoofer,Cotización enviada
+I01584,2024-11-06,Instagram,Bocinas,Cotización enviada
+I01590,2024-11-07,WhatsApp,Head Unit,Venta concretada
+I01591,2024-11-07,WhatsApp,Head Unit,Venta concretada
+I01592,2024-11-07,TikTok,Bocinas,Cotización enviada
+I01593,2024-11-07,WhatsApp,Accesorios,Cancelado
+I01594,2024-11-07,Facebook,Amplificador,Cancelado
+I01595,2024-11-07,Tienda física,Subwoofer,Venta concretada
+I01600,2024-11-08,WhatsApp,Subwoofer,Sin respuesta
+I01601,2024-11-08,TikTok,Accesorios,Venta concretada
+I01602,2024-11-08,Facebook,Subwoofer,Venta concretada
+I01603,2024-11-08,WhatsApp,Head Unit,Cotización enviada
+I01604,2024-11-08,Instagram,Amplificador,Cotización enviada
+I01605,2024-11-08,WhatsApp,Amplificador,Cancelado
+I01610,2024-11-09,WhatsApp,Amplificador,Venta concretada
+I01611,2024-11-09,Facebook,Subwoofer,Cancelado
+I01620,2024-11-10,Facebook,Amplificador,Sin respuesta
+I01621,2024-11-10,TikTok,Amplificador,Cotización enviada
+I01622,2024-11-10,WhatsApp,Amplificador,Cotización enviada
+I01623,2024-11-10,WhatsApp,Amplificador,Venta concretada
+I01624,2024-11-10,TikTok,Amplificador,Cotización enviada
+I01625,2024-11-10,WhatsApp,Head Unit,Venta concretada
+I01630,2024-11-11,TikTok,Subwoofer,Venta concretada
+I01631,2024-11-11,Facebook,Bocinas,Cotización enviada
+I01632,2024-11-11,Instagram,Amplificador,Cotización enviada
+I01633,2024-11-11,Facebook,Accesorios,Venta concretada
+I01640,2024-11-12,TikTok,Subwoofer,Cotización enviada
+I01641,2024-11-12,WhatsApp,Subwoofer,Cancelado
+I01650,2024-11-13,TikTok,Amplificador,Sin respuesta
+I01651,2024-11-13,Facebook,Head Unit,Cancelado
+I01652,2024-11-13,TikTok,Head Unit,Sin respuesta
+I01653,2024-11-13,TikTok,Bocinas,Sin respuesta
+I01654,2024-11-13,Instagram,Amplificador,Sin respuesta
+I01655,2024-11-13,WhatsApp,Subwoofer,Cancelado
+I01660,2024-11-14,Facebook,Bocinas,Venta concretada
+I01661,2024-11-14,Facebook,Bocinas,Venta concretada
+I01670,2024-11-15,WhatsApp,Amplificador,Sin respuesta
+I01680,2024-11-16,WhatsApp,Subwoofer,Sin respuesta
+I01681,2024-11-16,Facebook,Accesorios,Cotización enviada
+I01682,2024-11-16,WhatsApp,Amplificador,Venta concretada
+I01690,2024-11-17,Instagram,Bocinas,Cancelado
+I01691,2024-11-17,Instagram,Subwoofer,Venta concretada
+I01692,2024-11-17,Instagram,Subwoofer,Cotización enviada
+I01693,2024-11-17,TikTok,Amplificador,Venta concretada
+I01694,2024-11-17,TikTok,Amplificador,Cotización enviada
+I01695,2024-11-17,Tienda física,Subwoofer,Venta concretada
+I01700,2024-11-18,Instagram,Bocinas,Cancelado
+I01701,2024-11-18,WhatsApp,Subwoofer,Cancelado
+I01710,2024-11-19,TikTok,Amplificador,Venta concretada
+I01711,2024-11-19,WhatsApp,Amplificador,Sin respuesta
+I01712,2024-11-19,WhatsApp,Head Unit,Cotización enviada
+I01713,2024-11-19,WhatsApp,Accesorios,Cotización enviada
+I01720,2024-11-20,WhatsApp,Accesorios,Cancelado
+I01721,2024-11-20,Tienda física,Accesorios,Cancelado
+I01722,2024-11-20,TikTok,Accesorios,Venta concretada
+I01723,2024-11-20,TikTok,Accesorios,Venta concretada
+I01724,2024-11-20,WhatsApp,Head Unit,Venta concretada
+I01725,2024-11-20,Instagram,Bocinas,Sin respuesta
+I01730,2024-11-21,TikTok,Accesorios,Cotización enviada
+I01731,2024-11-21,WhatsApp,Accesorios,Cancelado
+I01740,2024-11-22,Instagram,Accesorios,Cotización enviada
+I01741,2024-11-22,WhatsApp,Amplificador,Sin respuesta
+I01742,2024-11-22,TikTok,Bocinas,Venta concretada
+I01743,2024-11-22,WhatsApp,Bocinas,Sin respuesta
+I01744,2024-11-22,TikTok,Amplificador,Venta concretada
+I01745,2024-11-22,Tienda física,Accesorios,Venta concretada
+I01750,2024-11-23,Instagram,Head Unit,Cancelado
+I01751,2024-11-23,Instagram,Head Unit,Cotización enviada
+I01752,2024-11-23,WhatsApp,Head Unit,Venta concretada
+I01753,2024-11-23,Tienda física,Accesorios,Cotización enviada
+I01760,2024-11-24,Facebook,Subwoofer,Venta concretada
+I01761,2024-11-24,WhatsApp,Amplificador,Venta concretada
+I01770,2024-11-25,TikTok,Head Unit,Cotización enviada
+I01771,2024-11-25,Facebook,Bocinas,Cotización enviada
+I01772,2024-11-25,Tienda física,Accesorios,Venta concretada
+I01773,2024-11-25,Facebook,Bocinas,Sin respuesta
+I01780,2024-11-26,TikTok,Accesorios,Sin respuesta
+I01790,2024-11-27,TikTok,Amplificador,Cotización enviada
+I01800,2024-11-28,WhatsApp,Amplificador,Venta concretada
+I01810,2024-11-29,Tienda física,Accesorios,Cotización enviada
+I01811,2024-11-29,TikTok,Subwoofer,Cotización enviada
+I01812,2024-11-29,WhatsApp,Accesorios,Venta concretada
+I01813,2024-11-29,TikTok,Bocinas,Cotización enviada
+I01814,2024-11-29,WhatsApp,Bocinas,Cotización enviada
+I01815,2024-11-29,WhatsApp,Accesorios,Cotización enviada
+I01820,2024-11-30,WhatsApp,Amplificador,Sin respuesta
+I01821,2024-11-30,WhatsApp,Subwoofer,Cotización enviada
+I01822,2024-11-30,WhatsApp,Accesorios,Venta concretada
+I01823,2024-11-30,WhatsApp,Amplificador,Cotización enviada
+I01824,2024-11-30,Instagram,Accesorios,Venta concretada
+I01825,2024-11-30,TikTok,Amplificador,Cancelado
+I01830,2024-12-01,TikTok,Amplificador,Venta concretada
+I01831,2024-12-01,Instagram,Subwoofer,Venta concretada
+I01840,2024-12-02,WhatsApp,Accesorios,Cancelado
+I01841,2024-12-02,WhatsApp,Accesorios,Cotización enviada
+I01842,2024-12-02,Instagram,Subwoofer,Sin respuesta
+I01843,2024-12-02,Instagram,Amplificador,Venta concretada
+I01844,2024-12-02,WhatsApp,Accesorios,Cotización enviada
+I01850,2024-12-03,WhatsApp,Subwoofer,Cotización enviada
+I01851,2024-12-03,WhatsApp,Head Unit,Venta concretada
+I01852,2024-12-03,WhatsApp,Accesorios,Venta concretada
+I01853,2024-12-03,Instagram,Accesorios,Sin respuesta
+I01854,2024-12-03,Facebook,Subwoofer,Venta concretada
+I01860,2024-12-04,WhatsApp,Head Unit,Venta concretada
+I01861,2024-12-04,Instagram,Head Unit,Sin respuesta
+I01862,2024-12-04,WhatsApp,Accesorios,Cancelado
+I01870,2024-12-05,WhatsApp,Amplificador,Cotización enviada
+I01871,2024-12-05,TikTok,Subwoofer,Cancelado
+I01880,2024-12-06,TikTok,Bocinas,Sin respuesta
+I01881,2024-12-06,WhatsApp,Amplificador,Sin respuesta
+I01882,2024-12-06,WhatsApp,Amplificador,Cancelado
+I01883,2024-12-06,Instagram,Amplificador,Sin respuesta
+I01890,2024-12-07,Instagram,Subwoofer,Cotización enviada
+I01891,2024-12-07,Instagram,Accesorios,Sin respuesta
+I01892,2024-12-07,WhatsApp,Amplificador,Venta concretada
+I01893,2024-12-07,WhatsApp,Accesorios,Venta concretada
+I01894,2024-12-07,Facebook,Bocinas,Venta concretada
+I01895,2024-12-07,Tienda física,Subwoofer,Venta concretada
+I01900,2024-12-08,WhatsApp,Accesorios,Sin respuesta
+I01901,2024-12-08,TikTok,Subwoofer,Cotización enviada
+I01902,2024-12-08,Instagram,Head Unit,Sin respuesta
+I01903,2024-12-08,WhatsApp,Bocinas,Cancelado
+I01910,2024-12-09,Tienda física,Head Unit,Sin respuesta
+I01911,2024-12-09,WhatsApp,Head Unit,Sin respuesta
+I01920,2024-12-10,WhatsApp,Subwoofer,Venta concretada
+I01930,2024-12-11,WhatsApp,Subwoofer,Cotización enviada
+I01940,2024-12-12,Facebook,Subwoofer,Sin respuesta
+I01941,2024-12-12,TikTok,Subwoofer,Cotización enviada
+I01942,2024-12-12,WhatsApp,Subwoofer,Cotización enviada
+I01943,2024-12-12,Tienda física,Head Unit,Venta concretada
+I01944,2024-12-12,Facebook,Amplificador,Cotización enviada
+I01945,2024-12-12,Instagram,Accesorios,Sin respuesta
+I01950,2024-12-13,Instagram,Subwoofer,Cancelado
+I01960,2024-12-14,Facebook,Amplificador,Cotización enviada
+I01961,2024-12-14,WhatsApp,Bocinas,Cotización enviada
+I01962,2024-12-14,Facebook,Subwoofer,Venta concretada
+I01963,2024-12-14,Instagram,Bocinas,Cotización enviada
+I01964,2024-12-14,TikTok,Accesorios,Venta concretada
+I01965,2024-12-14,TikTok,Head Unit,Cancelado
+I01970,2024-12-15,WhatsApp,Accesorios,Venta concretada
+I01980,2024-12-16,Tienda física,Amplificador,Venta concretada
+I01990,2024-12-17,Facebook,Head Unit,Cotización enviada
+I01991,2024-12-17,WhatsApp,Bocinas,Cancelado
+I01992,2024-12-17,Instagram,Subwoofer,Cotización enviada
+I02000,2024-12-18,WhatsApp,Head Unit,Cotización enviada
+I02001,2024-12-18,WhatsApp,Head Unit,Cotización enviada
+I02002,2024-12-18,Tienda física,Head Unit,Venta concretada
+I02003,2024-12-18,TikTok,Amplificador,Venta concretada
+I02004,2024-12-18,TikTok,Subwoofer,Venta concretada
+I02010,2024-12-19,Tienda física,Amplificador,Cotización enviada
+I02011,2024-12-19,WhatsApp,Accesorios,Venta concretada
+I02012,2024-12-19,WhatsApp,Accesorios,Cotización enviada
+I02013,2024-12-19,WhatsApp,Accesorios,Sin respuesta
+I02014,2024-12-19,Instagram,Bocinas,Venta concretada
+I02020,2024-12-20,Instagram,Bocinas,Sin respuesta
+I02021,2024-12-20,WhatsApp,Accesorios,Venta concretada
+I02022,2024-12-20,WhatsApp,Subwoofer,Sin respuesta
+I02030,2024-12-21,TikTok,Amplificador,Cotización enviada
+I02031,2024-12-21,Facebook,Head Unit,Sin respuesta
+I02040,2024-12-22,Instagram,Accesorios,Cancelado
+I02041,2024-12-22,WhatsApp,Subwoofer,Venta concretada
+I02042,2024-12-22,WhatsApp,Head Unit,Venta concretada
+I02043,2024-12-22,Instagram,Bocinas,Cancelado
+I02044,2024-12-22,WhatsApp,Bocinas,Venta concretada
+I02050,2024-12-23,Instagram,Accesorios,Cancelado
+I02060,2024-12-24,WhatsApp,Bocinas,Cotización enviada
+I02061,2024-12-24,WhatsApp,Subwoofer,Venta concretada
+I02062,2024-12-24,Tienda física,Subwoofer,Cancelado
+I02063,2024-12-24,WhatsApp,Accesorios,Cancelado
+I02070,2024-12-25,Instagram,Subwoofer,Cancelado
+I02080,2024-12-26,Instagram,Head Unit,Cotización enviada
+I02081,2024-12-26,Instagram,Amplificador,Sin respuesta
+I02082,2024-12-26,WhatsApp,Bocinas,Venta concretada
+I02083,2024-12-26,WhatsApp,Head Unit,Sin respuesta
+I02084,2024-12-26,WhatsApp,Head Unit,Sin respuesta
+I02085,2024-12-26,Tienda física,Subwoofer,Venta concretada
+I02090,2024-12-27,TikTok,Accesorios,Cotización enviada
+I02091,2024-12-27,Facebook,Head Unit,Venta concretada
+I02092,2024-12-27,TikTok,Accesorios,Sin respuesta
+I02100,2024-12-28,Tienda física,Bocinas,Sin respuesta
+I02101,2024-12-28,Instagram,Bocinas,Cotización enviada
+I02110,2024-12-29,Facebook,Subwoofer,Cotización enviada
+I02111,2024-12-29,WhatsApp,Amplificador,Cancelado
+I02112,2024-12-29,TikTok,Bocinas,Sin respuesta
+I02113,2024-12-29,WhatsApp,Amplificador,Sin respuesta
+I02114,2024-12-29,WhatsApp,Head Unit,Sin respuesta
+I02120,2024-12-30,WhatsApp,Amplificador,Sin respuesta
+I02121,2024-12-30,Tienda física,Head Unit,Venta concretada
+I02122,2024-12-30,Tienda física,Head Unit,Cotización enviada
+I02123,2024-12-30,Facebook,Subwoofer,Sin respuesta
+I02124,2024-12-30,Instagram,Head Unit,Sin respuesta
+I02130,2024-12-31,Facebook,Amplificador,Cotización enviada
+I02131,2024-12-31,WhatsApp,Accesorios,Sin respuesta
+I02132,2024-12-31,Facebook,Bocinas,Sin respuesta
+I02140,2025-01-01,TikTok,Subwoofer,Cotización enviada
+I02141,2025-01-01,Facebook,Accesorios,Venta concretada
+I02142,2025-01-01,Instagram,Subwoofer,Venta concretada
+I02143,2025-01-01,WhatsApp,Bocinas,Cotización enviada
+I02144,2025-01-01,WhatsApp,Subwoofer,Sin respuesta
+I02145,2025-01-01,WhatsApp,Bocinas,Cotización enviada
+I02150,2025-01-02,WhatsApp,Amplificador,Cotización enviada
+I02151,2025-01-02,WhatsApp,Bocinas,Venta concretada
+I02160,2025-01-03,Instagram,Accesorios,Sin respuesta
+I02161,2025-01-03,Instagram,Accesorios,Cotización enviada
+I02162,2025-01-03,WhatsApp,Bocinas,Cancelado
+I02163,2025-01-03,Instagram,Accesorios,Cotización enviada
+I02164,2025-01-03,WhatsApp,Head Unit,Venta concretada
+I02170,2025-01-04,WhatsApp,Accesorios,Cotización enviada
+I02180,2025-01-05,Instagram,Accesorios,Cotización enviada
+I02181,2025-01-05,Instagram,Amplificador,Sin respuesta
+I02182,2025-01-05,Facebook,Amplificador,Sin respuesta
+I02183,2025-01-05,Tienda física,Subwoofer,Venta concretada
+I02184,2025-01-05,WhatsApp,Subwoofer,Venta concretada
+I02185,2025-01-05,Instagram,Head Unit,Cancelado
+I02190,2025-01-06,WhatsApp,Subwoofer,Cancelado
+I02200,2025-01-07,WhatsApp,Head Unit,Cancelado
+I02201,2025-01-07,WhatsApp,Accesorios,Venta concretada
+I02202,2025-01-07,Instagram,Subwoofer,Venta concretada
+I02203,2025-01-07,WhatsApp,Accesorios,Venta concretada
+I02210,2025-01-08,Facebook,Subwoofer,Cotización enviada
+I02211,2025-01-08,WhatsApp,Head Unit,Cotización enviada
+I02212,2025-01-08,TikTok,Head Unit,Venta concretada
+I02213,2025-01-08,Instagram,Amplificador,Venta concretada
+I02214,2025-01-08,WhatsApp,Accesorios,Sin respuesta
+I02220,2025-01-09,WhatsApp,Bocinas,Cotización enviada
+I02221,2025-01-09,TikTok,Amplificador,Venta concretada
+I02222,2025-01-09,Instagram,Accesorios,Venta concretada
+I02223,2025-01-09,Tienda física,Amplificador,Cotización enviada
+I02230,2025-01-10,Facebook,Amplificador,Cotización enviada
+I02231,2025-01-10,WhatsApp,Accesorios,Cotización enviada
+I02232,2025-01-10,Tienda física,Subwoofer,Cotización enviada
+I02233,2025-01-10,Facebook,Bocinas,Cancelado
+I02240,2025-01-11,WhatsApp,Amplificador,Venta concretada
+I02241,2025-01-11,Instagram,Amplificador,Cotización enviada
+I02242,2025-01-11,Facebook,Subwoofer,Cancelado
+I02250,2025-01-12,WhatsApp,Bocinas,Venta concretada
+I02251,2025-01-12,TikTok,Accesorios,Venta concretada
+I02260,2025-01-13,Facebook,Head Unit,Cotización enviada
+I02261,2025-01-13,TikTok,Amplificador,Venta concretada
+I02262,2025-01-13,Instagram,Accesorios,Cotización enviada
+I02263,2025-01-13,Instagram,Accesorios,Venta concretada
+I02264,2025-01-13,TikTok,Head Unit,Cancelado
+I02265,2025-01-13,WhatsApp,Bocinas,Venta concretada
+I02270,2025-01-14,WhatsApp,Amplificador,Cotización enviada
+I02271,2025-01-14,Instagram,Subwoofer,Cotización enviada
+I02272,2025-01-14,WhatsApp,Amplificador,Cotización enviada
+I02280,2025-01-15,Instagram,Amplificador,Cotización enviada
+I02281,2025-01-15,Tienda física,Head Unit,Venta concretada
+I02282,2025-01-15,TikTok,Accesorios,Cotización enviada
+I02283,2025-01-15,Instagram,Bocinas,Sin respuesta
+I02290,2025-01-16,TikTok,Subwoofer,Cancelado
+I02291,2025-01-16,WhatsApp,Head Unit,Venta concretada
+I02300,2025-01-17,TikTok,Subwoofer,Cotización enviada
+I02301,2025-01-17,WhatsApp,Bocinas,Venta concretada
+I02302,2025-01-17,WhatsApp,Subwoofer,Cancelado
+I02310,2025-01-18,WhatsApp,Head Unit,Venta concretada
+I02311,2025-01-18,WhatsApp,Bocinas,Cotización enviada
+I02312,2025-01-18,WhatsApp,Amplificador,Cotización enviada
+I02313,2025-01-18,WhatsApp,Head Unit,Sin respuesta
+I02320,2025-01-19,WhatsApp,Head Unit,Cotización enviada
+I02321,2025-01-19,Facebook,Subwoofer,Sin respuesta
+I02322,2025-01-19,Instagram,Amplificador,Venta concretada
+I02330,2025-01-20,WhatsApp,Amplificador,Sin respuesta
+I02331,2025-01-20,Tienda física,Head Unit,Sin respuesta
+I02332,2025-01-20,Instagram,Head Unit,Sin respuesta
+I02333,2025-01-20,Instagram,Accesorios,Venta concretada
+I02340,2025-01-21,Instagram,Amplificador,Cancelado
+I02341,2025-01-21,WhatsApp,Head Unit,Sin respuesta
+I02342,2025-01-21,WhatsApp,Amplificador,Cotización enviada
+I02343,2025-01-21,WhatsApp,Subwoofer,Cotización enviada
+I02344,2025-01-21,TikTok,Subwoofer,Venta concretada
+I02345,2025-01-21,TikTok,Bocinas,Sin respuesta
+I02350,2025-01-22,Tienda física,Head Unit,Venta concretada
+I02351,2025-01-22,WhatsApp,Bocinas,Venta concretada
+I02352,2025-01-22,Tienda física,Head Unit,Cancelado
+I02353,2025-01-22,Instagram,Head Unit,Sin respuesta
+I02360,2025-01-23,Instagram,Accesorios,Cotización enviada
+I02361,2025-01-23,WhatsApp,Accesorios,Sin respuesta
+I02362,2025-01-23,WhatsApp,Accesorios,Sin respuesta
+I02363,2025-01-23,TikTok,Subwoofer,Sin respuesta
+I02364,2025-01-23,WhatsApp,Amplificador,Venta concretada
+I02370,2025-01-24,WhatsApp,Subwoofer,Cotización enviada
+I02371,2025-01-24,WhatsApp,Head Unit,Cancelado
+I02372,2025-01-24,Instagram,Amplificador,Venta concretada
+I02373,2025-01-24,WhatsApp,Accesorios,Cotización enviada
+I02374,2025-01-24,Instagram,Accesorios,Cotización enviada
+I02375,2025-01-24,Facebook,Accesorios,Cotización enviada
+I02380,2025-01-25,Tienda física,Head Unit,Cancelado
+I02381,2025-01-25,WhatsApp,Head Unit,Cancelado
+I02390,2025-01-26,WhatsApp,Amplificador,Sin respuesta
+I02391,2025-01-26,WhatsApp,Bocinas,Cancelado
+I02392,2025-01-26,Facebook,Accesorios,Sin respuesta
+I02393,2025-01-26,TikTok,Subwoofer,Venta concretada
+I02394,2025-01-26,WhatsApp,Head Unit,Cotización enviada
+I02395,2025-01-26,WhatsApp,Subwoofer,Sin respuesta
+I02400,2025-01-27,WhatsApp,Subwoofer,Cancelado
+I02401,2025-01-27,Instagram,Head Unit,Sin respuesta
+I02402,2025-01-27,WhatsApp,Amplificador,Cancelado
+I02410,2025-01-28,Tienda física,Amplificador,Cotización enviada
+I02411,2025-01-28,Instagram,Amplificador,Sin respuesta
+I02420,2025-01-29,WhatsApp,Amplificador,Cotización enviada
+I02421,2025-01-29,WhatsApp,Accesorios,Venta concretada
+I02422,2025-01-29,WhatsApp,Head Unit,Venta concretada
+I02430,2025-01-30,WhatsApp,Head Unit,Venta concretada
+I02431,2025-01-30,Tienda física,Subwoofer,Cotización enviada
+I02432,2025-01-30,Tienda física,Bocinas,Cotización enviada
+I02433,2025-01-30,WhatsApp,Amplificador,Cotización enviada
+I02434,2025-01-30,Instagram,Amplificador,Venta concretada
+I02440,2025-01-31,Instagram,Subwoofer,Venta concretada
+I02450,2025-02-01,Instagram,Accesorios,Sin respuesta
+I02460,2025-02-02,WhatsApp,Accesorios,Venta concretada
+I02461,2025-02-02,TikTok,Bocinas,Cotización enviada
+I02462,2025-02-02,WhatsApp,Subwoofer,Cancelado
+I02463,2025-02-02,WhatsApp,Accesorios,Sin respuesta
+I02470,2025-02-03,Tienda física,Accesorios,Venta concretada
+I02480,2025-02-04,WhatsApp,Amplificador,Venta concretada
+I02481,2025-02-04,WhatsApp,Accesorios,Venta concretada
+I02490,2025-02-05,TikTok,Amplificador,Venta concretada
+I02500,2025-02-06,Instagram,Amplificador,Cancelado
+I02501,2025-02-06,Facebook,Amplificador,Cotización enviada
+I02502,2025-02-06,WhatsApp,Bocinas,Cotización enviada
+I02503,2025-02-06,Instagram,Head Unit,Cotización enviada
+I02510,2025-02-07,WhatsApp,Subwoofer,Cancelado
+I02511,2025-02-07,Instagram,Bocinas,Venta concretada
+I02520,2025-02-08,WhatsApp,Subwoofer,Cotización enviada
+I02530,2025-02-09,Facebook,Accesorios,Sin respuesta
+I02540,2025-02-10,TikTok,Bocinas,Venta concretada
+I02541,2025-02-10,Instagram,Head Unit,Cotización enviada
+I02542,2025-02-10,WhatsApp,Bocinas,Venta concretada
+I02543,2025-02-10,TikTok,Subwoofer,Venta concretada
+I02544,2025-02-10,Instagram,Bocinas,Venta concretada
+I02550,2025-02-11,WhatsApp,Bocinas,Venta concretada
+I02551,2025-02-11,Tienda física,Accesorios,Sin respuesta
+I02552,2025-02-11,Tienda física,Accesorios,Cotización enviada
+I02553,2025-02-11,WhatsApp,Subwoofer,Cotización enviada
+I02554,2025-02-11,Instagram,Subwoofer,Sin respuesta
+I02560,2025-02-12,WhatsApp,Amplificador,Cotización enviada
+I02561,2025-02-12,WhatsApp,Subwoofer,Venta concretada
+I02570,2025-02-13,TikTok,Accesorios,Cotización enviada
+I02580,2025-02-14,WhatsApp,Head Unit,Cotización enviada
+I02590,2025-02-15,Instagram,Subwoofer,Sin respuesta
+I02591,2025-02-15,Facebook,Accesorios,Cancelado
+I02592,2025-02-15,TikTok,Amplificador,Venta concretada
+I02593,2025-02-15,TikTok,Accesorios,Cotización enviada
+I02600,2025-02-16,WhatsApp,Subwoofer,Sin respuesta
+I02601,2025-02-16,WhatsApp,Amplificador,Cancelado
+I02602,2025-02-16,Instagram,Bocinas,Cotización enviada
+I02603,2025-02-16,TikTok,Head Unit,Cancelado
+I02604,2025-02-16,Instagram,Bocinas,Cotización enviada
+I02610,2025-02-17,WhatsApp,Bocinas,Cotización enviada
+I02611,2025-02-17,WhatsApp,Head Unit,Sin respuesta
+I02612,2025-02-17,Instagram,Head Unit,Sin respuesta
+I02613,2025-02-17,WhatsApp,Accesorios,Venta concretada
+I02614,2025-02-17,TikTok,Subwoofer,Venta concretada
+I02615,2025-02-17,WhatsApp,Bocinas,Venta concretada
+I02620,2025-02-18,Tienda física,Accesorios,Sin respuesta
+I02630,2025-02-19,WhatsApp,Amplificador,Venta concretada
+I02631,2025-02-19,WhatsApp,Bocinas,Sin respuesta
+I02632,2025-02-19,TikTok,Head Unit,Venta concretada
+I02633,2025-02-19,WhatsApp,Accesorios,Venta concretada
+I02634,2025-02-19,TikTok,Head Unit,Sin respuesta
+I02635,2025-02-19,WhatsApp,Amplificador,Venta concretada
+I02640,2025-02-20,WhatsApp,Subwoofer,Cancelado
+I02650,2025-02-21,WhatsApp,Accesorios,Sin respuesta
+I02651,2025-02-21,Instagram,Subwoofer,Cotización enviada
+I02652,2025-02-21,WhatsApp,Subwoofer,Venta concretada
+I02660,2025-02-22,Instagram,Accesorios,Sin respuesta
+I02661,2025-02-22,Instagram,Head Unit,Cotización enviada
+I02662,2025-02-22,WhatsApp,Subwoofer,Cancelado
+I02663,2025-02-22,TikTok,Accesorios,Venta concretada
+I02664,2025-02-22,Tienda física,Head Unit,Cotización enviada
+I02670,2025-02-23,Instagram,Amplificador,Sin respuesta
+I02671,2025-02-23,Facebook,Bocinas,Sin respuesta
+I02680,2025-02-24,WhatsApp,Bocinas,Venta concretada
+I02681,2025-02-24,Tienda física,Head Unit,Venta concretada
+I02682,2025-02-24,WhatsApp,Subwoofer,Cotización enviada
+I02683,2025-02-24,Instagram,Accesorios,Cotización enviada
+I02684,2025-02-24,Tienda física,Amplificador,Venta concretada
+I02690,2025-02-25,WhatsApp,Amplificador,Venta concretada
+I02691,2025-02-25,Facebook,Amplificador,Cotización enviada
+I02692,2025-02-25,WhatsApp,Amplificador,Sin respuesta
+I02693,2025-02-25,Facebook,Amplificador,Sin respuesta
+I02700,2025-02-26,Facebook,Accesorios,Venta concretada
+I02701,2025-02-26,TikTok,Accesorios,Cotización enviada
+I02702,2025-02-26,Facebook,Amplificador,Sin respuesta
+I02703,2025-02-26,TikTok,Subwoofer,Sin respuesta
+I02704,2025-02-26,WhatsApp,Amplificador,Cotización enviada
+I02710,2025-02-27,Tienda física,Head Unit,Cancelado
+I02711,2025-02-27,WhatsApp,Head Unit,Venta concretada
+I02712,2025-02-27,WhatsApp,Head Unit,Sin respuesta
+I02713,2025-02-27,Facebook,Bocinas,Venta concretada
+I02720,2025-02-28,Instagram,Subwoofer,Sin respuesta
+I02730,2025-03-01,TikTok,Subwoofer,Cotización enviada
+I02731,2025-03-01,Instagram,Head Unit,Cotización enviada
+I02732,2025-03-01,WhatsApp,Amplificador,Cotización enviada
+I02740,2025-03-02,TikTok,Accesorios,Cancelado
+I02741,2025-03-02,Instagram,Bocinas,Sin respuesta
+I02742,2025-03-02,WhatsApp,Subwoofer,Cotización enviada
+I02743,2025-03-02,WhatsApp,Head Unit,Venta concretada
+I02744,2025-03-02,TikTok,Subwoofer,Cancelado
+I02750,2025-03-03,WhatsApp,Amplificador,Cotización enviada
+I02751,2025-03-03,Facebook,Bocinas,Venta concretada
+I02752,2025-03-03,Instagram,Bocinas,Sin respuesta
+I02760,2025-03-04,Instagram,Bocinas,Venta concretada
+I02761,2025-03-04,WhatsApp,Subwoofer,Sin respuesta
+I02762,2025-03-04,Instagram,Accesorios,Venta concretada
+I02763,2025-03-04,TikTok,Subwoofer,Venta concretada
+I02770,2025-03-05,TikTok,Amplificador,Venta concretada
+I02780,2025-03-06,Tienda física,Subwoofer,Cotización enviada
+I02781,2025-03-06,WhatsApp,Subwoofer,Venta concretada
+I02782,2025-03-06,WhatsApp,Amplificador,Cancelado
+I02783,2025-03-06,Tienda física,Subwoofer,Cotización enviada
+I02790,2025-03-07,Instagram,Amplificador,Sin respuesta
+I02791,2025-03-07,Facebook,Head Unit,Cotización enviada
+I02792,2025-03-07,WhatsApp,Bocinas,Cotización enviada
+I02793,2025-03-07,TikTok,Bocinas,Venta concretada
+I02794,2025-03-07,Instagram,Accesorios,Cotización enviada
+I02800,2025-03-08,TikTok,Subwoofer,Venta concretada
+I02810,2025-03-09,Instagram,Amplificador,Cotización enviada
+I02811,2025-03-09,Instagram,Bocinas,Venta concretada
+I02812,2025-03-09,Instagram,Subwoofer,Cotización enviada
+I02813,2025-03-09,Instagram,Head Unit,Cotización enviada
+I02820,2025-03-10,TikTok,Amplificador,Sin respuesta
+I02821,2025-03-10,WhatsApp,Subwoofer,Sin respuesta
+I02822,2025-03-10,Instagram,Amplificador,Venta concretada
+I02823,2025-03-10,WhatsApp,Amplificador,Venta concretada
+I02824,2025-03-10,TikTok,Head Unit,Sin respuesta
+I02825,2025-03-10,TikTok,Head Unit,Cotización enviada
+I02830,2025-03-11,Instagram,Subwoofer,Venta concretada
+I02831,2025-03-11,WhatsApp,Bocinas,Cotización enviada
+I02832,2025-03-11,WhatsApp,Accesorios,Venta concretada
+I02840,2025-03-12,Instagram,Amplificador,Sin respuesta
+I02841,2025-03-12,Tienda física,Bocinas,Cancelado
+I02842,2025-03-12,Instagram,Accesorios,Cotización enviada
+I02843,2025-03-12,Instagram,Subwoofer,Sin respuesta
+I02844,2025-03-12,WhatsApp,Bocinas,Cotización enviada
+I02850,2025-03-13,Facebook,Bocinas,Cotización enviada
+I02851,2025-03-13,Instagram,Bocinas,Cotización enviada
+I02852,2025-03-13,WhatsApp,Accesorios,Cotización enviada
+I02853,2025-03-13,WhatsApp,Amplificador,Venta concretada
+I02854,2025-03-13,WhatsApp,Accesorios,Sin respuesta
+I02855,2025-03-13,WhatsApp,Amplificador,Cotización enviada
+I02860,2025-03-14,WhatsApp,Head Unit,Cancelado
+I02861,2025-03-14,WhatsApp,Head Unit,Cotización enviada
+I02862,2025-03-14,Facebook,Subwoofer,Sin respuesta
+I02863,2025-03-14,WhatsApp,Subwoofer,Sin respuesta
+I02864,2025-03-14,Instagram,Amplificador,Cotización enviada
+I02870,2025-03-15,WhatsApp,Accesorios,Venta concretada
+I02871,2025-03-15,TikTok,Subwoofer,Cotización enviada
+I02872,2025-03-15,Instagram,Accesorios,Sin respuesta
+I02880,2025-03-16,TikTok,Amplificador,Venta concretada
+I02881,2025-03-16,Instagram,Head Unit,Venta concretada
+I02882,2025-03-16,TikTok,Head Unit,Sin respuesta
+I02883,2025-03-16,Tienda física,Amplificador,Venta concretada
+I02890,2025-03-17,WhatsApp,Accesorios,Venta concretada
+I02891,2025-03-17,WhatsApp,Accesorios,Venta concretada
+I02892,2025-03-17,Facebook,Amplificador,Venta concretada
+I02893,2025-03-17,WhatsApp,Bocinas,Sin respuesta
+I02900,2025-03-18,Instagram,Amplificador,Sin respuesta
+I02910,2025-03-19,WhatsApp,Head Unit,Cotización enviada
+I02911,2025-03-19,WhatsApp,Accesorios,Venta concretada
+I02920,2025-03-20,Facebook,Subwoofer,Venta concretada
+I02921,2025-03-20,Instagram,Subwoofer,Cotización enviada
+I02922,2025-03-20,WhatsApp,Subwoofer,Cancelado
+I02923,2025-03-20,WhatsApp,Head Unit,Sin respuesta
+I02924,2025-03-20,Tienda física,Bocinas,Cotización enviada
+I02925,2025-03-20,Tienda física,Subwoofer,Venta concretada
+I02930,2025-03-21,Instagram,Subwoofer,Venta concretada
+I02931,2025-03-21,TikTok,Accesorios,Cancelado
+I02932,2025-03-21,WhatsApp,Head Unit,Sin respuesta
+I02933,2025-03-21,WhatsApp,Accesorios,Cotización enviada
+I02934,2025-03-21,Instagram,Accesorios,Cancelado
+I02940,2025-03-22,Instagram,Subwoofer,Venta concretada
+I02941,2025-03-22,WhatsApp,Head Unit,Venta concretada
+I02942,2025-03-22,WhatsApp,Head Unit,Venta concretada
+I02943,2025-03-22,Facebook,Accesorios,Cotización enviada
+I02944,2025-03-22,Instagram,Amplificador,Venta concretada
+I02945,2025-03-22,Facebook,Subwoofer,Sin respuesta
+I02950,2025-03-23,WhatsApp,Bocinas,Sin respuesta
+I02951,2025-03-23,Instagram,Head Unit,Venta concretada
+I02952,2025-03-23,Instagram,Accesorios,Cotización enviada
+I02953,2025-03-23,WhatsApp,Amplificador,Cancelado
+I02954,2025-03-23,Facebook,Bocinas,Sin respuesta
+I02955,2025-03-23,Instagram,Accesorios,Cotización enviada
+I02960,2025-03-24,TikTok,Accesorios,Cotización enviada
+I02961,2025-03-24,WhatsApp,Accesorios,Cotización enviada
+I02962,2025-03-24,Facebook,Bocinas,Cotización enviada
+I02963,2025-03-24,WhatsApp,Accesorios,Sin respuesta
+I02964,2025-03-24,WhatsApp,Accesorios,Venta concretada
+I02965,2025-03-24,WhatsApp,Bocinas,Venta concretada
+I02970,2025-03-25,TikTok,Head Unit,Cotización enviada
+I02971,2025-03-25,WhatsApp,Accesorios,Cancelado
+I02972,2025-03-25,Facebook,Accesorios,Cancelado
+I02973,2025-03-25,WhatsApp,Accesorios,Cotización enviada
+I02974,2025-03-25,Tienda física,Bocinas,Sin respuesta
+I02975,2025-03-25,WhatsApp,Subwoofer,Venta concretada
+I02980,2025-03-26,Instagram,Head Unit,Cancelado
+I02981,2025-03-26,Instagram,Amplificador,Cotización enviada
+I02982,2025-03-26,WhatsApp,Accesorios,Sin respuesta
+I02983,2025-03-26,Facebook,Head Unit,Cotización enviada
+I02984,2025-03-26,TikTok,Accesorios,Cancelado
+I02990,2025-03-27,WhatsApp,Accesorios,Cotización enviada
+I02991,2025-03-27,WhatsApp,Amplificador,Sin respuesta
+I02992,2025-03-27,Instagram,Amplificador,Cotización enviada
+I02993,2025-03-27,TikTok,Head Unit,Cotización enviada
+I03000,2025-03-28,Facebook,Subwoofer,Cotización enviada
+I03001,2025-03-28,WhatsApp,Head Unit,Sin respuesta
+I03002,2025-03-28,TikTok,Subwoofer,Venta concretada
+I03003,2025-03-28,Facebook,Accesorios,Cancelado
+I03004,2025-03-28,WhatsApp,Head Unit,Cancelado
+I03010,2025-03-29,WhatsApp,Accesorios,Venta concretada
+I03011,2025-03-29,WhatsApp,Amplificador,Cancelado
+I03012,2025-03-29,TikTok,Amplificador,Venta concretada
+I03013,2025-03-29,Instagram,Amplificador,Cotización enviada
+I03014,2025-03-29,WhatsApp,Subwoofer,Cancelado
+I03020,2025-03-30,Facebook,Amplificador,Cotización enviada
+I03021,2025-03-30,Tienda física,Head Unit,Cotización enviada
+I03030,2025-03-31,Tienda física,Bocinas,Sin respuesta
+I03031,2025-03-31,Instagram,Bocinas,Venta concretada
+I03040,2025-04-01,Facebook,Accesorios,Cotización enviada
+I03041,2025-04-01,WhatsApp,Subwoofer,Venta concretada
+I03042,2025-04-01,Instagram,Bocinas,Cotización enviada
+I03043,2025-04-01,TikTok,Accesorios,Cancelado
+I03044,2025-04-01,WhatsApp,Subwoofer,Sin respuesta
+I03050,2025-04-02,WhatsApp,Bocinas,Cancelado
+I03051,2025-04-02,Facebook,Amplificador,Cotización enviada
+I03052,2025-04-02,TikTok,Bocinas,Venta concretada
+I03053,2025-04-02,Instagram,Subwoofer,Sin respuesta
+I03054,2025-04-02,Instagram,Bocinas,Cotización enviada
+I03060,2025-04-03,Instagram,Subwoofer,Sin respuesta
+I03061,2025-04-03,WhatsApp,Bocinas,Venta concretada
+I03062,2025-04-03,TikTok,Amplificador,Sin respuesta
+I03063,2025-04-03,WhatsApp,Amplificador,Venta concretada
+I03070,2025-04-04,WhatsApp,Accesorios,Venta concretada
+I03071,2025-04-04,Instagram,Amplificador,Sin respuesta
+I03072,2025-04-04,TikTok,Accesorios,Cotización enviada
+I03080,2025-04-05,WhatsApp,Amplificador,Sin respuesta
+I03081,2025-04-05,Instagram,Head Unit,Cancelado
+I03082,2025-04-05,Instagram,Accesorios,Venta concretada
+I03083,2025-04-05,TikTok,Head Unit,Venta concretada
+I03084,2025-04-05,TikTok,Amplificador,Venta concretada
+I03090,2025-04-06,WhatsApp,Amplificador,Cancelado
+I03091,2025-04-06,WhatsApp,Accesorios,Sin respuesta
+I03092,2025-04-06,WhatsApp,Subwoofer,Cotización enviada
+I03093,2025-04-06,TikTok,Head Unit,Cotización enviada
+I03094,2025-04-06,WhatsApp,Subwoofer,Venta concretada
+I03100,2025-04-07,WhatsApp,Bocinas,Venta concretada
+I03101,2025-04-07,TikTok,Subwoofer,Cancelado
+I03102,2025-04-07,Facebook,Amplificador,Sin respuesta
+I03110,2025-04-08,TikTok,Accesorios,Sin respuesta
+I03111,2025-04-08,WhatsApp,Accesorios,Cancelado
+I03112,2025-04-08,TikTok,Bocinas,Cotización enviada
+I03113,2025-04-08,WhatsApp,Head Unit,Cotización enviada
+I03114,2025-04-08,Instagram,Subwoofer,Cancelado
+I03115,2025-04-08,Instagram,Accesorios,Cotización enviada
+I03120,2025-04-09,Tienda física,Bocinas,Venta concretada
+I03121,2025-04-09,Instagram,Accesorios,Venta concretada
+I03130,2025-04-10,TikTok,Accesorios,Cancelado
+I03131,2025-04-10,WhatsApp,Amplificador,Cancelado
+I03132,2025-04-10,WhatsApp,Bocinas,Cancelado
+I03140,2025-04-11,TikTok,Head Unit,Sin respuesta
+I03141,2025-04-11,WhatsApp,Subwoofer,Cancelado
+I03142,2025-04-11,TikTok,Accesorios,Venta concretada
+I03143,2025-04-11,Facebook,Bocinas,Venta concretada
+I03144,2025-04-11,Facebook,Accesorios,Venta concretada
+I03145,2025-04-11,TikTok,Bocinas,Cotización enviada
+I03150,2025-04-12,WhatsApp,Bocinas,Venta concretada
+I03151,2025-04-12,WhatsApp,Subwoofer,Cotización enviada
+I03152,2025-04-12,WhatsApp,Amplificador,Cotización enviada
+I03160,2025-04-13,WhatsApp,Accesorios,Venta concretada
+I03170,2025-04-14,TikTok,Bocinas,Venta concretada
+I03171,2025-04-14,Facebook,Subwoofer,Cancelado
+I03172,2025-04-14,TikTok,Amplificador,Cotización enviada
+I03173,2025-04-14,Facebook,Amplificador,Venta concretada
+I03180,2025-04-15,WhatsApp,Head Unit,Venta concretada
+I03181,2025-04-15,TikTok,Accesorios,Venta concretada
+I03182,2025-04-15,Instagram,Head Unit,Cancelado
+I03183,2025-04-15,Facebook,Subwoofer,Cotización enviada
+I03184,2025-04-15,WhatsApp,Head Unit,Sin respuesta
+I03190,2025-04-16,Instagram,Head Unit,Venta concretada
+I03191,2025-04-16,WhatsApp,Bocinas,Cancelado
+I03200,2025-04-17,TikTok,Amplificador,Sin respuesta
+I03201,2025-04-17,Facebook,Amplificador,Cotización enviada
+I03202,2025-04-17,Instagram,Accesorios,Cotización enviada
+I03203,2025-04-17,WhatsApp,Head Unit,Cotización enviada
+I03204,2025-04-17,TikTok,Accesorios,Cotización enviada
+I03210,2025-04-18,Facebook,Subwoofer,Cotización enviada
+I03211,2025-04-18,Instagram,Subwoofer,Cotización enviada
+I03212,2025-04-18,Instagram,Amplificador,Sin respuesta
+I03220,2025-04-19,WhatsApp,Amplificador,Cotización enviada
+I03221,2025-04-19,WhatsApp,Subwoofer,Cotización enviada
+I03222,2025-04-19,Instagram,Subwoofer,Sin respuesta
+I03223,2025-04-19,Tienda física,Accesorios,Cotización enviada
+I03230,2025-04-20,TikTok,Accesorios,Cotización enviada
+I03231,2025-04-20,Instagram,Bocinas,Venta concretada
+I03232,2025-04-20,WhatsApp,Bocinas,Cotización enviada
+I03233,2025-04-20,Instagram,Subwoofer,Venta concretada
+I03240,2025-04-21,WhatsApp,Subwoofer,Venta concretada
+I03250,2025-04-22,Tienda física,Accesorios,Venta concretada
+I03251,2025-04-22,Instagram,Amplificador,Venta concretada
+I03252,2025-04-22,Instagram,Subwoofer,Venta concretada
+I03253,2025-04-22,WhatsApp,Subwoofer,Cotización enviada
+I03260,2025-04-23,WhatsApp,Amplificador,Venta concretada
+I03261,2025-04-23,WhatsApp,Accesorios,Venta concretada
+I03262,2025-04-23,WhatsApp,Head Unit,Venta concretada
+I03263,2025-04-23,Facebook,Subwoofer,Cotización enviada
+I03264,2025-04-23,Instagram,Subwoofer,Venta concretada
+I03265,2025-04-23,Tienda física,Subwoofer,Cotización enviada
+I03270,2025-04-24,WhatsApp,Accesorios,Cotización enviada
+I03271,2025-04-24,WhatsApp,Subwoofer,Venta concretada
+I03272,2025-04-24,Instagram,Accesorios,Cancelado
+I03273,2025-04-24,Instagram,Head Unit,Sin respuesta
+I03280,2025-04-25,Tienda física,Head Unit,Venta concretada
+I03290,2025-04-26,WhatsApp,Accesorios,Cotización enviada
+I03291,2025-04-26,Instagram,Subwoofer,Cotización enviada
+I03292,2025-04-26,Facebook,Head Unit,Sin respuesta
+I03293,2025-04-26,Instagram,Subwoofer,Venta concretada
+I03294,2025-04-26,Facebook,Bocinas,Cancelado
+I03295,2025-04-26,Facebook,Bocinas,Venta concretada
+I03300,2025-04-27,Instagram,Accesorios,Venta concretada
+I03301,2025-04-27,WhatsApp,Amplificador,Venta concretada
+I03310,2025-04-28,Instagram,Bocinas,Sin respuesta
+I03311,2025-04-28,WhatsApp,Bocinas,Cotización enviada
+I03312,2025-04-28,Instagram,Amplificador,Cotización enviada
+I03313,2025-04-28,WhatsApp,Subwoofer,Cotización enviada
+I03314,2025-04-28,TikTok,Head Unit,Venta concretada
+I03320,2025-04-29,WhatsApp,Head Unit,Cotización enviada
+I03321,2025-04-29,Tienda física,Head Unit,Sin respuesta
+I03330,2025-04-30,TikTok,Bocinas,Cotización enviada
+I03340,2025-05-01,Instagram,Bocinas,Venta concretada
+I03341,2025-05-01,Instagram,Accesorios,Cancelado
+I03342,2025-05-01,Instagram,Head Unit,Cancelado
+I03343,2025-05-01,TikTok,Bocinas,Venta concretada
+I03350,2025-05-02,Facebook,Subwoofer,Venta concretada
+I03351,2025-05-02,Instagram,Bocinas,Venta concretada
+I03360,2025-05-03,WhatsApp,Bocinas,Cotización enviada
+I03361,2025-05-03,WhatsApp,Bocinas,Cotización enviada
+I03370,2025-05-04,Instagram,Amplificador,Venta concretada
+I03371,2025-05-04,WhatsApp,Accesorios,Cotización enviada
+I03372,2025-05-04,WhatsApp,Amplificador,Sin respuesta
+I03373,2025-05-04,TikTok,Head Unit,Sin respuesta
+I03374,2025-05-04,TikTok,Subwoofer,Cotización enviada
+I03375,2025-05-04,TikTok,Accesorios,Venta concretada
+I03380,2025-05-05,WhatsApp,Bocinas,Sin respuesta
+I03390,2025-05-06,Instagram,Bocinas,Sin respuesta
+I03391,2025-05-06,Facebook,Bocinas,Cancelado
+I03392,2025-05-06,Facebook,Subwoofer,Cotización enviada
+I03393,2025-05-06,WhatsApp,Amplificador,Cotización enviada
+I03394,2025-05-06,WhatsApp,Accesorios,Cotización enviada
+I03395,2025-05-06,TikTok,Accesorios,Sin respuesta
+I03400,2025-05-07,WhatsApp,Head Unit,Venta concretada
+I03410,2025-05-08,Instagram,Bocinas,Venta concretada
+I03420,2025-05-09,Facebook,Accesorios,Venta concretada
+I03421,2025-05-09,WhatsApp,Head Unit,Venta concretada
+I03422,2025-05-09,Instagram,Subwoofer,Cotización enviada
+I03423,2025-05-09,WhatsApp,Amplificador,Venta concretada
+I03424,2025-05-09,Instagram,Amplificador,Venta concretada
+I03430,2025-05-10,TikTok,Bocinas,Cotización enviada
+I03431,2025-05-10,WhatsApp,Amplificador,Venta concretada
+I03440,2025-05-11,Tienda física,Amplificador,Cotización enviada
+I03450,2025-05-12,TikTok,Head Unit,Venta concretada
+I03451,2025-05-12,Instagram,Amplificador,Venta concretada
+I03452,2025-05-12,Instagram,Amplificador,Cancelado
+I03460,2025-05-13,WhatsApp,Bocinas,Venta concretada
+I03461,2025-05-13,WhatsApp,Subwoofer,Cotización enviada
+I03462,2025-05-13,WhatsApp,Bocinas,Venta concretada
+I03470,2025-05-14,TikTok,Subwoofer,Cotización enviada
+I03471,2025-05-14,WhatsApp,Bocinas,Cancelado
+I03472,2025-05-14,WhatsApp,Subwoofer,Cancelado
+I03473,2025-05-14,WhatsApp,Amplificador,Cancelado
+I03474,2025-05-14,Instagram,Amplificador,Sin respuesta
+I03480,2025-05-15,Tienda física,Subwoofer,Venta concretada
+I03481,2025-05-15,Tienda física,Subwoofer,Cotización enviada
+I03482,2025-05-15,WhatsApp,Accesorios,Venta concretada
+I03483,2025-05-15,Instagram,Amplificador,Venta concretada
+I03484,2025-05-15,Instagram,Subwoofer,Cotización enviada
+I03485,2025-05-15,TikTok,Bocinas,Sin respuesta
+I03490,2025-05-16,Instagram,Amplificador,Venta concretada
+I03500,2025-05-17,WhatsApp,Amplificador,Venta concretada
+I03501,2025-05-17,WhatsApp,Accesorios,Venta concretada
+I03502,2025-05-17,WhatsApp,Head Unit,Cancelado
+I03503,2025-05-17,Instagram,Amplificador,Venta concretada
+I03510,2025-05-18,Instagram,Bocinas,Venta concretada
+I03511,2025-05-18,Instagram,Accesorios,Cotización enviada
+I03512,2025-05-18,Instagram,Accesorios,Cotización enviada
+I03513,2025-05-18,Tienda física,Head Unit,Cancelado
+I03520,2025-05-19,Instagram,Subwoofer,Cotización enviada
+I03521,2025-05-19,Instagram,Amplificador,Venta concretada
+I03522,2025-05-19,WhatsApp,Amplificador,Venta concretada
+I03523,2025-05-19,Instagram,Bocinas,Cotización enviada
+I03530,2025-05-20,WhatsApp,Accesorios,Cancelado
+I03540,2025-05-21,Facebook,Head Unit,Sin respuesta
+I03541,2025-05-21,Instagram,Head Unit,Cancelado
+I03542,2025-05-21,WhatsApp,Accesorios,Sin respuesta
+I03550,2025-05-22,WhatsApp,Amplificador,Sin respuesta
+I03560,2025-05-23,WhatsApp,Head Unit,Cancelado
+I03561,2025-05-23,Tienda física,Subwoofer,Venta concretada
+I03562,2025-05-23,Instagram,Amplificador,Cancelado
+I03563,2025-05-23,Instagram,Bocinas,Cancelado
+I03564,2025-05-23,Instagram,Head Unit,Cotización enviada
+I03570,2025-05-24,WhatsApp,Subwoofer,Venta concretada
+I03571,2025-05-24,TikTok,Subwoofer,Cotización enviada
+I03572,2025-05-24,Instagram,Bocinas,Cotización enviada
+I03573,2025-05-24,Instagram,Head Unit,Cancelado
+I03574,2025-05-24,Tienda física,Head Unit,Cotización enviada
+I03580,2025-05-25,Facebook,Amplificador,Sin respuesta
+I03590,2025-05-26,Instagram,Amplificador,Cancelado
+I03591,2025-05-26,WhatsApp,Head Unit,Venta concretada
+I03592,2025-05-26,Facebook,Subwoofer,Cotización enviada
+I03593,2025-05-26,Facebook,Bocinas,Cancelado
+I03600,2025-05-27,WhatsApp,Accesorios,Cancelado
+I03601,2025-05-27,Instagram,Subwoofer,Cotización enviada
+I03602,2025-05-27,Instagram,Amplificador,Cancelado
+I03603,2025-05-27,WhatsApp,Bocinas,Cotización enviada
+I03610,2025-05-28,TikTok,Bocinas,Sin respuesta
+I03611,2025-05-28,TikTok,Accesorios,Venta concretada
+I03612,2025-05-28,WhatsApp,Amplificador,Cotización enviada
+I03613,2025-05-28,Facebook,Amplificador,Venta concretada
+I03614,2025-05-28,WhatsApp,Subwoofer,Cancelado
+I03615,2025-05-28,WhatsApp,Subwoofer,Cancelado
+I03620,2025-05-29,TikTok,Subwoofer,Sin respuesta
+I03621,2025-05-29,WhatsApp,Bocinas,Venta concretada
+I03630,2025-05-30,TikTok,Accesorios,Sin respuesta
+I03631,2025-05-30,TikTok,Amplificador,Venta concretada
+I03632,2025-05-30,TikTok,Subwoofer,Sin respuesta
+I03633,2025-05-30,TikTok,Amplificador,Sin respuesta
+I03634,2025-05-30,Facebook,Head Unit,Cotización enviada
+I03640,2025-05-31,WhatsApp,Bocinas,Cotización enviada
+I03641,2025-05-31,WhatsApp,Amplificador,Cotización enviada
+I03642,2025-05-31,Instagram,Accesorios,Venta concretada
+I03643,2025-05-31,WhatsApp,Accesorios,Venta concretada
+I03644,2025-05-31,Facebook,Head Unit,Cancelado
+I03650,2025-06-01,WhatsApp,Bocinas,Cancelado
+I03651,2025-06-01,Instagram,Accesorios,Venta concretada
+I03652,2025-06-01,WhatsApp,Bocinas,Cotización enviada
+I03653,2025-06-01,TikTok,Amplificador,Sin respuesta
+I03654,2025-06-01,WhatsApp,Bocinas,Venta concretada
+I03655,2025-06-01,Instagram,Amplificador,Venta concretada
+I03660,2025-06-02,WhatsApp,Amplificador,Venta concretada
+I03661,2025-06-02,Facebook,Subwoofer,Cancelado
+I03662,2025-06-02,Instagram,Accesorios,Cancelado
+I03663,2025-06-02,WhatsApp,Amplificador,Cotización enviada
+I03664,2025-06-02,WhatsApp,Accesorios,Cotización enviada
+I03670,2025-06-03,Tienda física,Head Unit,Cotización enviada
+I03671,2025-06-03,WhatsApp,Bocinas,Cotización enviada
+I03672,2025-06-03,WhatsApp,Subwoofer,Cancelado
+I03673,2025-06-03,Instagram,Head Unit,Cotización enviada
+I03674,2025-06-03,Instagram,Amplificador,Cotización enviada
+I03675,2025-06-03,WhatsApp,Accesorios,Sin respuesta
+I03680,2025-06-04,WhatsApp,Subwoofer,Sin respuesta
+I03681,2025-06-04,Facebook,Bocinas,Sin respuesta
+I03682,2025-06-04,Instagram,Accesorios,Cotización enviada
+I03683,2025-06-04,WhatsApp,Accesorios,Sin respuesta
+I03690,2025-06-05,WhatsApp,Bocinas,Cotización enviada
+I03691,2025-06-05,WhatsApp,Bocinas,Venta concretada
+I03692,2025-06-05,Instagram,Subwoofer,Venta concretada
+I03693,2025-06-05,TikTok,Bocinas,Venta concretada
+I03694,2025-06-05,WhatsApp,Bocinas,Cotización enviada
+I03695,2025-06-05,WhatsApp,Subwoofer,Venta concretada
+I03700,2025-06-06,TikTok,Bocinas,Venta concretada
+I03701,2025-06-06,Facebook,Amplificador,Venta concretada
+I03702,2025-06-06,WhatsApp,Bocinas,Sin respuesta
+I03703,2025-06-06,WhatsApp,Accesorios,Venta concretada
+I03710,2025-06-07,WhatsApp,Subwoofer,Venta concretada
+I03711,2025-06-07,Facebook,Head Unit,Venta concretada
+I03720,2025-06-08,TikTok,Bocinas,Cancelado
+I03730,2025-06-09,Instagram,Amplificador,Cancelado
+I03731,2025-06-09,WhatsApp,Subwoofer,Cancelado
+I03732,2025-06-09,WhatsApp,Amplificador,Sin respuesta
+I03733,2025-06-09,Instagram,Amplificador,Cotización enviada
+I03734,2025-06-09,Instagram,Amplificador,Sin respuesta
+I03740,2025-06-10,WhatsApp,Head Unit,Venta concretada
+I03741,2025-06-10,TikTok,Head Unit,Sin respuesta
+I03742,2025-06-10,Tienda física,Amplificador,Sin respuesta
+I03743,2025-06-10,Tienda física,Subwoofer,Sin respuesta
+I03744,2025-06-10,WhatsApp,Bocinas,Venta concretada
+I03745,2025-06-10,TikTok,Head Unit,Cotización enviada
+I03750,2025-06-11,WhatsApp,Head Unit,Cotización enviada
+I03760,2025-06-12,Tienda física,Bocinas,Cotización enviada
+I03761,2025-06-12,Instagram,Subwoofer,Cotización enviada
+I03762,2025-06-12,WhatsApp,Head Unit,Cotización enviada
+I03763,2025-06-12,WhatsApp,Bocinas,Venta concretada
+I03764,2025-06-12,TikTok,Accesorios,Cotización enviada
+I03770,2025-06-13,Facebook,Subwoofer,Cancelado
+I03771,2025-06-13,WhatsApp,Accesorios,Sin respuesta
+I03780,2025-06-14,Instagram,Amplificador,Cancelado
+I03781,2025-06-14,WhatsApp,Subwoofer,Sin respuesta
+I03782,2025-06-14,Instagram,Accesorios,Venta concretada
+I03783,2025-06-14,WhatsApp,Amplificador,Sin respuesta
+I03784,2025-06-14,TikTok,Head Unit,Venta concretada
+I03785,2025-06-14,Instagram,Accesorios,Cotización enviada
+I03790,2025-06-15,TikTok,Bocinas,Venta concretada
+I03791,2025-06-15,Facebook,Accesorios,Venta concretada
+I03792,2025-06-15,WhatsApp,Subwoofer,Venta concretada
+I03793,2025-06-15,WhatsApp,Accesorios,Cotización enviada
+I03800,2025-06-16,WhatsApp,Accesorios,Sin respuesta
+I03801,2025-06-16,WhatsApp,Head Unit,Cotización enviada
+I03802,2025-06-16,WhatsApp,Amplificador,Venta concretada
+I03803,2025-06-16,WhatsApp,Bocinas,Cotización enviada
+I03804,2025-06-16,Instagram,Accesorios,Cotización enviada
+I03810,2025-06-17,Instagram,Accesorios,Cotización enviada
+I03811,2025-06-17,WhatsApp,Head Unit,Cotización enviada
+I03812,2025-06-17,Tienda física,Accesorios,Cotización enviada
+I03813,2025-06-17,TikTok,Subwoofer,Venta concretada
+I03814,2025-06-17,TikTok,Amplificador,Sin respuesta
+I03820,2025-06-18,Instagram,Subwoofer,Cancelado
+I03821,2025-06-18,WhatsApp,Head Unit,Venta concretada
+I03830,2025-06-19,TikTok,Accesorios,Sin respuesta
+I03840,2025-06-20,WhatsApp,Amplificador,Venta concretada
+I03841,2025-06-20,WhatsApp,Accesorios,Venta concretada
+I03842,2025-06-20,TikTok,Bocinas,Cotización enviada
+I03843,2025-06-20,WhatsApp,Accesorios,Cotización enviada
+I03844,2025-06-20,WhatsApp,Head Unit,Venta concretada
+I03845,2025-06-20,Instagram,Accesorios,Cancelado
+I03850,2025-06-21,Facebook,Amplificador,Venta concretada
+I03851,2025-06-21,Facebook,Head Unit,Sin respuesta
+I03852,2025-06-21,TikTok,Accesorios,Cotización enviada
+I03860,2025-06-22,WhatsApp,Accesorios,Venta concretada
+I03861,2025-06-22,WhatsApp,Accesorios,Venta concretada
+I03862,2025-06-22,WhatsApp,Accesorios,Cotización enviada
+I03870,2025-06-23,TikTok,Subwoofer,Cotización enviada
+I03871,2025-06-23,WhatsApp,Subwoofer,Cancelado
+I03872,2025-06-23,Tienda física,Head Unit,Sin respuesta
+I03873,2025-06-23,Tienda física,Head Unit,Cotización enviada
+I03874,2025-06-23,Tienda física,Bocinas,Venta concretada
+I03875,2025-06-23,WhatsApp,Accesorios,Venta concretada
+I03880,2025-06-24,WhatsApp,Bocinas,Venta concretada
+I03881,2025-06-24,Instagram,Subwoofer,Sin respuesta
+I03882,2025-06-24,Instagram,Bocinas,Venta concretada
+I03883,2025-06-24,Facebook,Subwoofer,Cotización enviada
+I03884,2025-06-24,WhatsApp,Head Unit,Sin respuesta
+I03890,2025-06-25,WhatsApp,Amplificador,Venta concretada
+I03891,2025-06-25,Facebook,Accesorios,Venta concretada
+I03900,2025-06-26,Instagram,Bocinas,Cancelado
+I03901,2025-06-26,TikTok,Bocinas,Venta concretada
+I03902,2025-06-26,WhatsApp,Bocinas,Venta concretada
+I03903,2025-06-26,Instagram,Amplificador,Cotización enviada
+I03910,2025-06-27,WhatsApp,Amplificador,Cancelado
+I03911,2025-06-27,Instagram,Subwoofer,Venta concretada
+I03912,2025-06-27,Instagram,Accesorios,Sin respuesta
+I03913,2025-06-27,WhatsApp,Bocinas,Venta concretada
+I03914,2025-06-27,Facebook,Head Unit,Cotización enviada
+I03920,2025-06-28,Instagram,Subwoofer,Cotización enviada
+I03921,2025-06-28,WhatsApp,Accesorios,Venta concretada
+I03922,2025-06-28,Instagram,Subwoofer,Venta concretada
+I03923,2025-06-28,WhatsApp,Bocinas,Sin respuesta
+I03930,2025-06-29,Tienda física,Accesorios,Sin respuesta
+I03931,2025-06-29,Facebook,Accesorios,Venta concretada
+I03932,2025-06-29,Tienda física,Bocinas,Venta concretada
+I03933,2025-06-29,Tienda física,Bocinas,Cancelado
+I03940,2025-06-30,TikTok,Amplificador,Cancelado
+I03941,2025-06-30,Instagram,Accesorios,Venta concretada
+I03942,2025-06-30,Instagram,Accesorios,Cotización enviada
+I03943,2025-06-30,WhatsApp,Bocinas,Cotización enviada
+I03944,2025-06-30,Tienda física,Accesorios,Venta concretada
