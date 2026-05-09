@@ -439,7 +439,7 @@ INSTRUCCIONES:
             with st.spinner("Analizando datos..."):
                 try:
                     import anthropic
-                    client = anthropic.Anthropic()
+                    client = anthropic.Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
                     system_ctx = build_context()
 
                     # Keep last 10 messages for context
